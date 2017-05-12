@@ -1,4 +1,4 @@
-# Installing and configuring Eclipse
+# Install Eclipse "neon" for C++ on Ubuntu
 
 1. Visit [eclipse.org/neon](https://eclipse.org/neon/)
 
