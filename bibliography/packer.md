@@ -1,4 +1,4 @@
-# packer bibliography
+# Bibliography for Packer
 
 ## Tutorials
 
