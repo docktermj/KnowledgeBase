@@ -9,6 +9,12 @@
 1. https://github.com/shiguredo/packer-templates
 1. https://github.com/maier/packer-templates
 
+### Ubuntu 16.04
+
+1. https://github.com/geerlingguy/packer-ubuntu-1604
+1. https://github.com/kwilczynski/packer-templates
+
+
 ## ISOs
 
 1. http://archive.kernel.org/centos-vault
