@@ -1,4 +1,4 @@
-# packer-ubuntu-16.04 bibliography
+# packer bibliography
 
 ## Tutorials
 
