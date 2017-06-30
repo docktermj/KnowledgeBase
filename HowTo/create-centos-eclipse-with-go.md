@@ -20,13 +20,13 @@ export GO_VERSION=1.8.3
 
 wget https://storage.googleapis.com/golang/go${GO_VERSION}.linux-amd64.tar.gz
 sudo tar -C /usr/local/ -xzf go${GO_VERSION}.linux-amd64.tar.gz
-
-export GOPATH="${HOME}/go"
-export PATH="${PATH}:${GOPATH}/bin:/usr/local/go/bin"
 ```
 1. Install dependencies.
    1. On guest virtual machine terminal:
 ```console
+export GOPATH="${HOME}/go"
+export PATH="${PATH}:${GOPATH}/bin:/usr/local/go/bin"
+
 go get -u github.com/nsf/gocode
 go get -u github.com/rogpeppe/godef
 go get -u golang.org/x/tools/cmd/guru
