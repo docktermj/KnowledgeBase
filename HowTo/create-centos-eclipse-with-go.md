@@ -66,3 +66,10 @@ export X_GOPATH=$(readlink -f ${HOME}/go)
             1. **Indentation size:** 4
          1. Click "Apply" button
       1. Click "OK" button.
+
+
+## Running Eclipse remotely
+
+```console
+ ssh -X -f vagrant@nn.nn.nn.nn eclipse
+```
