@@ -28,8 +28,8 @@ export PATH="${PATH}:${GOPATH}/bin:/usr/local/go/bin"
    1. On guest virtual machine terminal:
 ```console
 go get -u github.com/nsf/gocode
-go get github.com/rogpeppe/godef
-go get golang.org/x/tools/cmd/guru
+go get -u github.com/rogpeppe/godef
+go get -u golang.org/x/tools/cmd/guru
 ```
 1. Find locations of files for configuring Eclipse.
    1. On guest virtual machine terminal:
