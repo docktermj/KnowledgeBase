@@ -3,7 +3,7 @@
 
 | alien | chi | echo | ozzo | Feature |
 | :---: | :---: | :---: | :---: | ------- |
-| :white_check_mark: | :white_check_mark: | | | Supports HTTP Methods GET POST PUT DELETE PATCH HEAD OPTION |
+| :white_check_mark: | :white_check_mark: | :white_check_mark: | | Supports HTTP Methods GET POST PUT DELETE PATCH HEAD OPTION |
 | :x: | :white_check_mark: | :white_check_mark: | | Chains middleware |
 | :x: | :white_check_mark: | :white_check_mark: | | Groups |
 | :x: | :white_check_mark: | | | Uses context.Context |
@@ -11,7 +11,7 @@
 | | | :white_check_mark: | | Automatic TLS via Let’s Encrypt |
 | | | :white_check_mark: | | HTTP/2 support |
 | :x: | [:link:](https://github.com/go-chi/chi/tree/master/_examples) | [:link:](https://echo.labstack.com/cookbook/hello-world) | | Examples |
-| :x: | :warning: | | | HTTP return codes |
+| :x: | :warning: | :white_check_mark: | | HTTP return codes |
 | :x: | :white_check_mark: | | | HTTP 404 - NOT FOUND |
 | :x: | :white_check_mark: | | | HTTP 405 - METHOD NOT ALLOWED |
 
@@ -25,7 +25,7 @@
    1. **Imports:** context, fmt, net, net/http, regexp, sort, strings, sync
 1. echo
    1. **License:** MIT
-   1. **Imports:** bytes, encoding/json, encoding/xml, errors, fmt, io, mime/multipart, net/http, net/url, os, path/filepath, reflect, strconv, strings, github.com/dgrijalva/jwt-go, github.com/labstack/gommon, github.com/valyala/fasttemplate, golang.org/x/crypto
+   1. **Imports:** buffio, bytes, crypto/tls encoding/json, encoding/xml, errors, fmt, io, log, mime/multipart, net/http, net/url, os, path, path/filepath, reflect, runtime, strconv, strings, sync, time, github.com/dgrijalva/jwt-go, github.com/labstack/gommon, github.com/valyala/fasttemplate, golang.org/x/crypto
    1. Better development artifacts.  Makefile, Unit tests. Gopkg
    1. More recent activity
    1. Currently 70 issues.  So there's interest 
