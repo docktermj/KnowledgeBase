@@ -44,7 +44,7 @@
 
 ## Size
 
-| Hello | Streaming | Delta size |
+| |  Hello | Streaming | Delta size |
 | --- | ---: | ---: | ---: |
 | alien | 5912345 | 5920709 | 8364 |
 | chi | 6208960 | 6213297 | 4337 |
