@@ -4,7 +4,11 @@
 | alien | chi | echo | ozzo | Feature |
 | :---: | :---: | :---: | :---: | ------- |
 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Test |
+| :white_check_mark: |  :x:               |                    |                    | Test |
 | :white_check_mark: |  :x:   |      |      | Test    |
+| :white_check_mark: |                   |                    |                     | Supports HTTP Methods GET POST PUT PATCH HEAD OPTION |
+| :x:                |                   |                    |                     | Supports HTTP return codes |
+| :x:                |                   |                    |                     | Supports Middleware|
 
 
 ## References
