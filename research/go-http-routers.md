@@ -10,7 +10,7 @@
 | | | :white_check_mark: | | Data binding for JSON, XML and form payload |
 | | | :white_check_mark: | | Automatic TLS via Let’s Encrypt |
 | | | :white_check_mark: | | HTTP/2 support |
-| :x: | [:link:](https://github.com/go-chi/chi/tree/master/_examples) | | | Examples |
+| :x: | [:link:](https://github.com/go-chi/chi/tree/master/_examples) | [:link:](https://echo.labstack.com/cookbook/hello-world) | | Examples |
 | :x: | :warning: | | | HTTP return codes |
 | :x: | :white_check_mark: | | | HTTP 404 - NOT FOUND |
 | :x: | :white_check_mark: | | | HTTP 405 - METHOD NOT ALLOWED |
@@ -25,7 +25,10 @@
    1. **Imports:** context, fmt, net, net/http, regexp, sort, strings, sync
 1. echo
    1. **License:** MIT
-   1. **Imports:**
+   1. **Imports:** bytes, encoding/json, encoding/xml, errors, fmt, io, mime/multipart, net/http, net/url, os, path/filepath, reflect, strconv, strings, github.com/dgrijalva/jwt-go, github.com/labstack/gommon, github.com/valyala/fasttemplate, golang.org/x/crypto
+   1. Better development artifacts.  Makefile, Unit tests. Gopkg
+   1. More recent activity
+   1. Currently 70 issues.  So there's interest 
 
 ## References
 
