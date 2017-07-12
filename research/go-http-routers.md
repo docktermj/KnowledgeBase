@@ -2,6 +2,9 @@
 
 | alien | chi | echo | ozzo | Feature |
 | :---: | :---: | :---: | :---: | ------- |
+| [:link:](https://github.com/gernest/alien) | [:link:](https://github.com/go-chi/chi) | [:link:](https://github.com/labstack/echo) | [:link:](https://github.com/go-ozzo/ozzo-routing) | GitHub repository |
+|  [:link:](https://github.com/gernest/alien#usage)  | [:link:](https://github.com/go-chi/chi/tree/master/_examples) | [:link:](https://echo.labstack.com/cookbook/hello-world) | [:link:](https://github.com/qiangxue/golang-restful-starter-kit) | Examples |
+| [:link:](https://godoc.org/github.com/gernest/alien) | | | | GoDoc |
 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Supports HTTP Methods GET POST PUT DELETE PATCH HEAD OPTION |
 | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: | Chains middleware |
 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Groups |
@@ -15,9 +18,6 @@
 | :x: | :x: | :x: | :white_check_mark: | JSON Web Token (JWT) support |
 | :x: | :x: | :x: | :white_check_mark: | Cross-Origin Resource Sharing (CORS) support |
 | :x: | :x: | :x: | :white_check_mark: | Static files |
-| [:link:](https://github.com/gernest/alien) | [:link:](https://github.com/go-chi/chi) | [:link:](https://github.com/labstack/echo) | [:link:](https://github.com/go-ozzo/ozzo-routing) | GitHub repository |
-|  [:link:](https://github.com/gernest/alien#usage)  | [:link:](https://github.com/go-chi/chi/tree/master/_examples) | [:link:](https://echo.labstack.com/cookbook/hello-world) | [:link:](https://github.com/qiangxue/golang-restful-starter-kit) | Examples |
-| [:link:](https://godoc.org/github.com/gernest/alien) | | | | GoDoc |
 | :x: | :warning: | :white_check_mark: | :white_check_mark: | HTTP return codes |
 | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | HTTP 404 - NOT FOUND |
 | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | HTTP 405 - METHOD NOT ALLOWED |
