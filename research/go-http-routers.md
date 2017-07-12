@@ -11,7 +11,7 @@
 | alien | chi | echo | ozzo | Feature |
 | :---: | :---: | :---: | :---: | ------- |
 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Supports HTTP Methods GET POST PUT DELETE PATCH HEAD OPTION |
-| :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Chains middleware |
+| :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: | Chains middleware |
 | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Groups |
 | :x: | :white_check_mark: | :x: | :x: | Uses context.Context |
 | :x: | :x: | :white_check_mark: |:white_check_mark: | Data binding for JSON, XML and form payload |
