@@ -16,9 +16,10 @@
 | :x: | :white_check_mark: | :x: | :x: | Uses context.Context |
 | :x: | :x: | :white_check_mark: |:white_check_mark: | Data binding for JSON, XML and form payload |
 | :x: | :white_check_mark:  | :white_check_mark: | :x: | Transport Layer Security (TLS) |
+| :x: | | | :white_check_mark: | Content negotiation: Accept |
 | :x: | | | :white_check_mark: | Content negotiation: Language |
-| :x: | :x: | :white_check_mark: | :white_check_mark: | Basic auth |
-| :x: | :x: | :white_check_mark: | :white_check_mark: | Bearer token auth |
+| :x: | :x: | :white_check_mark: | :white_check_mark: | Auth: Basic |
+| :x: | :x: | :white_check_mark: | :white_check_mark: | Auth: Bearer token |
 | :x: | :x: | :x: | :white_check_mark: | JSON Web Token (JWT) support |
 | :x: | :x: | :x: | :white_check_mark: | Cross-Origin Resource Sharing (CORS) support |
 | :x: | [:link:](https://github.com/go-chi/chi/tree/master/_examples) | [:link:](https://echo.labstack.com/cookbook/hello-world) | [:link:](https://github.com/qiangxue/golang-restful-starter-kit) | Examples |
