@@ -1,11 +1,3 @@
-
-## Repositories
-
-1. https://github.com/gernest/alien
-1. https://github.com/go-chi/chi
-1. https://github.com/labstack/echo
-1. https://github.com/go-ozzo/ozzo-routing
-
 ## Feature comparison
 
 | alien | chi | echo | ozzo | Feature |
@@ -23,6 +15,7 @@
 | :x: | :x: | :x: | :white_check_mark: | JSON Web Token (JWT) support |
 | :x: | :x: | :x: | :white_check_mark: | Cross-Origin Resource Sharing (CORS) support |
 | :x: | :x: | :x: | :white_check_mark: | Static files |
+| [:link:](https://github.com/gernest/alien) | [:link:](https://github.com/go-chi/chi) | [:link:](https://github.com/labstack/echo) | [:link:](https://github.com/go-ozzo/ozzo-routing) | GitHub repository |
 |  [:link:](https://github.com/gernest/alien#usage)  | [:link:](https://github.com/go-chi/chi/tree/master/_examples) | [:link:](https://echo.labstack.com/cookbook/hello-world) | [:link:](https://github.com/qiangxue/golang-restful-starter-kit) | Examples |
 | [:link:](https://godoc.org/github.com/gernest/alien) | | | | GoDoc |
 | :x: | :warning: | :white_check_mark: | :white_check_mark: | HTTP return codes |
