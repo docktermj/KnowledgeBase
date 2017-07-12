@@ -4,12 +4,18 @@
 | alien | chi | echo | ozzo | Feature |
 | :---: | :---: | :---: | :---: | ------- |
 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Test |
-| :white_check_mark: |  :x:               |                    |                    | Test |
-| :white_check_mark: |  :x:   |      |      | Test    |
-| :white_check_mark: |                   |                    |                     | Supports HTTP Methods GET POST PUT PATCH HEAD OPTION |
+| :white_check_mark: |  :x:               |                    |                    | Test    |
+| :white_check_mark: |                   |                    |                     | Supports HTTP Methods GET POST PUT DELETE PATCH HEAD OPTION |
 | :x:                |                   |                    |                     | Supports HTTP return codes |
-| :x:                |                   |                    |                     | Supports Middleware|
+| :x:                |                   |                    |                     | Supports Middleware |
+| :x:                |                   |                    |                     | Uses context.Context |
 
+
+
+## Imports
+
+1. alien
+   1. errors, net/http, path, strings, sync
 
 ## References
 
