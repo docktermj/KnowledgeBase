@@ -42,6 +42,15 @@
    1. **Imports:** encoding/json, encoding/xml, errors, fmt, math, net/http, net/url regexp, reflect, sort, strings, strconv, sync, time
    1. Similar to Express frameworks
 
+## Size
+
+| Hello | Streaming | Delta size |
+| --- | ---: | ---: | ---: |
+| alien | 5912345 | 5920709 | 8364 |
+| chi | 6208960 | 6213297 | 4337 |
+| echo | 6785087 | 6793793 | 8706 |
+| ozzo | 6644141 | 6648409 | 4268 |
+
 ## References
 
 1. https://github.com/avelino/awesome-go/blob/master/README.md#routers
