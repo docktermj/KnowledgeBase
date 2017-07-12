@@ -11,13 +11,18 @@
 | alien | chi | echo | ozzo | Feature |
 | :---: | :---: | :---: | :---: | ------- |
 | :white_check_mark: | :white_check_mark: | :white_check_mark: | | Supports HTTP Methods GET POST PUT DELETE PATCH HEAD OPTION |
-| :x: | :white_check_mark: | :white_check_mark: | | Chains middleware |
-| :x: | :white_check_mark: | :white_check_mark: | | Groups |
-| :x: | :white_check_mark: | :x: | | Uses context.Context |
-| :x: | :x: | :white_check_mark: | | Data binding for JSON, XML and form payload |
-| :x: | :x: | :white_check_mark: | | Automatic TLS via Let’s Encrypt |
+| :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Chains middleware |
+| :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Groups |
+| :x: | :white_check_mark: | :x: | :x: | Uses context.Context |
+| :x: | :x: | :white_check_mark: |:white_check_mark: | Data binding for JSON, XML and form payload |
+| :x: | :x: | :white_check_mark: | :x: | Automatic TLS via Let’s Encrypt |
 | :x: | | :white_check_mark: | | HTTP/2 support |
-| :x: | [:link:](https://github.com/go-chi/chi/tree/master/_examples) | [:link:](https://echo.labstack.com/cookbook/hello-world) | | Examples |
+| :x: | | | :white_check_mark: | Content negotiation: Language |
+| :x: | | | :white_check_mark: | Basic auth |
+| :x: | | | :white_check_mark: | Bearer token auth |
+| :x: | | | :white_check_mark: | JSON Web Token (JWT) support |
+| :x: | | | :white_check_mark: | Cross-Origin Resource Sharing (CORS) support |
+| :x: | [:link:](https://github.com/go-chi/chi/tree/master/_examples) | [:link:](https://echo.labstack.com/cookbook/hello-world) | [:link:](https://github.com/qiangxue/golang-restful-starter-kit) | Examples |
 | :x: | :warning: | :white_check_mark: | | HTTP return codes |
 | :x: | :white_check_mark: | :white_check_mark: | | HTTP 404 - NOT FOUND |
 | :x: | :white_check_mark: | :white_check_mark: | | HTTP 405 - METHOD NOT ALLOWED |
@@ -36,6 +41,10 @@
    1. Better development artifacts.  Makefile, Unit tests. Gopkg
    1. More recent activity
    1. Currently 70 issues.  So there's interest 
+1. ozzo-routing
+   1. **License:** MIT
+   1. **Imports:** encoding/json, encoding/xml, errors, fmt, math, net/http, net/url regexp, reflect, sort, strings, strconv, sync, time
+   1. Similar to Express frameworks
 
 ## References
 
