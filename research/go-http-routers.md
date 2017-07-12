@@ -11,7 +11,7 @@
 | :x: | :white_check_mark: | :x: | :x: | Uses context.Context |
 | :x: | :x: | :white_check_mark: |:white_check_mark: | Data binding for JSON, XML and form payload |
 | :x: | :white_check_mark:  | :white_check_mark: | :x: | Transport Layer Security (TLS) |
-| :x: | | | :white_check_mark: | Content negotiation: Accept |
+| :x: | :x: | :x: | :white_check_mark: | Content negotiation: Accept |
 | :x: | :x: | :x: | :white_check_mark: | Content negotiation: Language |
 | :x: | :x: | :white_check_mark: | :white_check_mark: | Auth: Basic |
 | :x: | :x: | :white_check_mark: | :white_check_mark: | Auth: Bearer token |
