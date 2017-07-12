@@ -4,21 +4,28 @@
 | alien | chi | echo | ozzo | Feature |
 | :---: | :---: | :---: | :---: | ------- |
 | :white_check_mark: | :white_check_mark: | | | Supports HTTP Methods GET POST PUT DELETE PATCH HEAD OPTION |
-| :x: | :white_check_mark: | | | Chains middleware |
-| :x: | :white_check_mark: | | | Groups |
+| :x: | :white_check_mark: | :white_check_mark: | | Chains middleware |
+| :x: | :white_check_mark: | :white_check_mark: | | Groups |
 | :x: | :white_check_mark: | | | Uses context.Context |
+| | | :white_check_mark: | | Data binding for JSON, XML and form payload |
+| | | :white_check_mark: | | Automatic TLS via Let’s Encrypt |
+| | | :white_check_mark: | | HTTP/2 support |
 | :x: | [:link:](https://github.com/go-chi/chi/tree/master/_examples) | | | Examples |
 | :x: | :warning: | | | HTTP return codes |
 | :x: | :white_check_mark: | | | HTTP 404 - NOT FOUND |
 | :x: | :white_check_mark: | | | HTTP 405 - METHOD NOT ALLOWED |
 
-
-## Imports
+## Misc
 
 1. alien
-   1. errors, net/http, path, strings, sync
+   1. **License:** MIT
+   1. **Imports:** errors, net/http, path, strings, sync
 1. chi
-   1. context, fmt, net, net/http, regexp, sort, strings, sync
+   1. **License:** MIT
+   1. **Imports:** context, fmt, net, net/http, regexp, sort, strings, sync
+1. echo
+   1. **License:** MIT
+   1. **Imports:**
 
 ## References
 
