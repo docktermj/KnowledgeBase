@@ -7,9 +7,9 @@
 | :x: | :white_check_mark: | :white_check_mark: | | Chains middleware |
 | :x: | :white_check_mark: | :white_check_mark: | | Groups |
 | :x: | :white_check_mark: | :x: | | Uses context.Context |
-| | | :white_check_mark: | | Data binding for JSON, XML and form payload |
-| | | :white_check_mark: | | Automatic TLS via Let’s Encrypt |
-| | | :white_check_mark: | | HTTP/2 support |
+| :x: | | :white_check_mark: | | Data binding for JSON, XML and form payload |
+| :x: | | :white_check_mark: | | Automatic TLS via Let’s Encrypt |
+| :x: | | :white_check_mark: | | HTTP/2 support |
 | :x: | [:link:](https://github.com/go-chi/chi/tree/master/_examples) | [:link:](https://echo.labstack.com/cookbook/hello-world) | | Examples |
 | :x: | :warning: | :white_check_mark: | | HTTP return codes |
 | :x: | :white_check_mark: | :white_check_mark: | | HTTP 404 - NOT FOUND |
