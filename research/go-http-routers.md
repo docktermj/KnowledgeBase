@@ -15,7 +15,7 @@
 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Groups |
 | :x: | :white_check_mark: | :x: | :x: | Uses context.Context |
 | :x: | :x: | :white_check_mark: |:white_check_mark: | Data binding for JSON, XML and form payload |
-| :x: | :x: | :white_check_mark: | :x: | Automatic TLS via Let’s Encrypt |
+| :x: | :white_check_mark:  | :white_check_mark: | :x: | Transport Layer Security (TLS) |
 | :x: | | :white_check_mark: | | HTTP/2 support |
 | :x: | | | :white_check_mark: | Content negotiation: Language |
 | :x: | | | :white_check_mark: | Basic auth |
@@ -40,6 +40,7 @@
    1. **Imports:** buffio, bytes, crypto/tls encoding/json, encoding/xml, errors, fmt, io, log, mime/multipart, net/http, net/url, os, path, path/filepath, reflect, runtime, strconv, strings, sync, time, github.com/dgrijalva/jwt-go, github.com/labstack/gommon, github.com/valyala/fasttemplate, golang.org/x/crypto
    1. Better development artifacts.  Makefile, Unit tests. Gopkg
    1. More recent activity
+   1. Automatic TLS via Let’s Encrypt 
    1. Currently 70 issues.  So there's interest 
 1. ozzo-routing
    1. **License:** MIT
