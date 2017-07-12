@@ -3,8 +3,6 @@
 
 | alien | chi | echo | ozzo | Feature |
 | :---: | :---: | :---: | :---: | ------- |
-| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Test |
-| :white_check_mark: | | | | Test |
 | :white_check_mark: | :white_check_mark: | | | Supports HTTP Methods GET POST PUT DELETE PATCH HEAD OPTION |
 | :x: | :white_check_mark: | | | Chains middleware |
 | :x: | :white_check_mark: | | | Groups |
@@ -13,8 +11,6 @@
 | :x: | :warning: | | | HTTP return codes |
 | :x: | :white_check_mark: | | | HTTP 404 - NOT FOUND |
 | :x: | :white_check_mark: | | | HTTP 405 - METHOD NOT ALLOWED |
-
-
 
 
 ## Imports
