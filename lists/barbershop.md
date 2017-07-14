@@ -26,6 +26,13 @@
 ## Main Street
 
 1. 2017 Champions
+1. 2017 Songs
+   1. Razzle Dazzle
+   1. Smile
+   1. I'll Take you Dreaming
+   1. Life's a Happy Song
+   1. Pop Songs Medley
+   1. There's Nothing That I Haven's Sung About
 1. [Evolution of Dance](https://www.youtube.com/watch?v=b8EWVbpUSq4) - Funny!
 1. [Pop Songs Medley](https://www.youtube.com/watch?v=EQdnzXEFKqM) - Funny!
 1. [Pop Songs Medley II](https://www.youtube.com/watch?v=zdira3Zk-KM) - Funny!
@@ -59,6 +66,7 @@
 ## Signature
 
 1. [Somebody to Love (Queen cover)](https://www.youtube.com/watch?v=SiGk3bSHggk)
+1. [A Change is Gonna Come (Sam Cooke cover)](https://www.youtube.com/watch?v=8RXXQsxvO1Q)
 
 ## Storm Front
 
