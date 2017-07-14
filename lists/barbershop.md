@@ -56,6 +56,8 @@
 ## Max Q
 
 1. 2007 Champions
+1. 2007 International
+   1. [Here's to the Losers](https://www.youtube.com/watch?v=8_bZ7yEHfUg)
 
 ## Music Island Boys
 
