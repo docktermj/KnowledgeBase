@@ -1,5 +1,3 @@
-x
-
 ## Barbershop
 
 1. [2018 Championships - Orlando](http://www.barbershop.org/orlando/)
@@ -42,6 +40,6 @@ x
 
 ## Storm Front - 2010 Champions
 
-1. [Bohemian Rhapsody](https://www.youtube.com/watch?v=KId3aK4lRag)
+1. [Bohemian Rhapsody](https://www.youtube.com/watch?v=KId3aK4lRag) - Funny!
 
 ## Vocal Spectrum - 2006 Champions
