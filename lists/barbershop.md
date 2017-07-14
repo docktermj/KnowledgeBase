@@ -28,7 +28,7 @@
 1. 2017 Champions
 1. 2017 Songs
    1. Razzle Dazzle
-   1. Smile
+   1. [Smile](https://www.youtube.com/watch?v=iPEY2SE1vXk)
    1. I'll Take you Dreaming
    1. Life's a Happy Song
    1. Pop Songs Medley
