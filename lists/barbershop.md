@@ -42,7 +42,12 @@
    1. [Life's a Happy Song (The Muppets)](https://www.youtube.com/watch?v=4jqgn3ojONI)   
    1. [I Found a Million Dollar Baby (parody)](https://www.youtube.com/watch?v=_gR7_ciHsDg)
 1. 2015 International
+   1. Pop Songs Medley
+   1. Lavender Blue
    1. [I'll Take You Dreaming](https://www.youtube.com/watch?v=0c4b5VF6QQw)
+   1. In The Summer
+   1. They all Laughed
+   1. Pretty Baby
 1. Misc   
    1. [Evolution of Dance](https://www.youtube.com/watch?v=b8EWVbpUSq4) - Funny!
    1. [Pop Songs Medley](https://www.youtube.com/watch?v=EQdnzXEFKqM) - Funny!
