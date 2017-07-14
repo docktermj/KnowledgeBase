@@ -35,7 +35,7 @@
    1. Pop Songs Medley
    1. There's Nothing That I Haven's Sung About
 1. 2016 International
-   1. Evolution of Dance Medley
+   1. [Evolution of Dance Medley](https://www.youtube.com/watch?v=b8EWVbpUSq4) - Funny!
    1. [I Got a Dream Parody (Tangled)](https://www.youtube.com/watch?v=yd34B14PWMU)
    1. Pop Songs Medley II
    1. [There's Nothing That I Haven't Sung About](https://www.youtube.com/watch?v=OGGYOYxuplQ)  
@@ -49,7 +49,7 @@
    1. They all Laughed
    1. Pretty Baby
 1. Misc   
-   1. [Evolution of Dance](https://www.youtube.com/watch?v=b8EWVbpUSq4) - Funny!
+
    1. [Pop Songs Medley](https://www.youtube.com/watch?v=EQdnzXEFKqM) - Funny!
    1. [Pop Songs Medley II](https://www.youtube.com/watch?v=zdira3Zk-KM) - Funny!
 
