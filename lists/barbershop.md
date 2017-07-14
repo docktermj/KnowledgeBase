@@ -36,6 +36,7 @@
    1. There's Nothing That I Haven's Sung About
 1. 2016 International
    1. [I Got a Dream Parody (Tangled)](https://www.youtube.com/watch?v=yd34B14PWMU)
+   1. [I Found a Million Dollar Baby (parody)](https://www.youtube.com/watch?v=_gR7_ciHsDg)
 1. 2015 International
    1. [I'll Take You Dreaming](https://www.youtube.com/watch?v=0c4b5VF6QQw)
 1. Misc   
