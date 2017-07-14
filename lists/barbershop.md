@@ -4,6 +4,8 @@
 1. [Champions](http://www.barbershop.org/competitions/international-champions/all-champions/)
 1. [xxx](https://www.youtube.com/user/barbershopharmony38?annotation_id=annotation_3850586717&feature=iv&src_vid=BEJBKoSoot8&sub_confirmation=1)
 
+
+
 ## Crossroads
 
 1. 2009 Champions
@@ -66,3 +68,8 @@
 ## Vocal Spectrum
 
 1. 2006 Champions
+
+
+## 2017 Championships
+
+1. [Final scores](http://www.barbershop.org/files/INTL20170705_QF.OSS1.pdf)
