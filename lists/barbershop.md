@@ -13,6 +13,7 @@
 ## Forefront
 
 1. 2016 Champions
+1. [Kiss From a Rose (Seal cover)](https://www.youtube.com/watch?v=lkbyqK77Tdo)
 
 ## Instant Classic
 
