@@ -54,10 +54,14 @@
 1. 2012 Champions
 1. [Notre Dame Medley](https://www.youtube.com/watch?v=TVtkNPFpxX8)
 
+## Signature
+
+1. [Somebody to Love (Queen cover)](https://www.youtube.com/watch?v=SiGk3bSHggk)
+
 ## Storm Front
 
 1. 2010 Champions
-1. [Bohemian Rhapsody](https://www.youtube.com/watch?v=KId3aK4lRag) - Funny!
+1. [Bohemian Rhapsody (Queen cover)](https://www.youtube.com/watch?v=KId3aK4lRag) - Funny!
 
 ## Vocal Spectrum
 
