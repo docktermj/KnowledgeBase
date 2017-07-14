@@ -49,7 +49,7 @@
    1. Pop Songs Medley
    1. [Lavender Blue](https://www.youtube.com/watch?v=CENjsEJdGG8)
    1. [I'll Take You Dreaming](https://www.youtube.com/watch?v=0c4b5VF6QQw)
-   1. In The Summer
+   1. [In The Summer](https://www.youtube.com/watch?v=yiu7cyF2Lzw)
    1. [They all Laughed](https://www.youtube.com/watch?v=R7f6vhiIyGw)
    1. [Pretty Baby](https://www.youtube.com/watch?v=71kCrZO6yyA)
 1. Misc
