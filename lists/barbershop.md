@@ -42,4 +42,6 @@ x
 
 ## Storm Front - 2010 Champions
 
+1. [Bohemian Rhapsody](https://www.youtube.com/watch?v=KId3aK4lRag)
+
 ## Vocal Spectrum - 2006 Champions
