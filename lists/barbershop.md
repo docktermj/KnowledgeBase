@@ -16,16 +16,16 @@ x
 
 ## Lunch Break
 
-1. [Old MacDonald's Deformed Farm ](https://www.youtube.com/watch?v=tqwkJGMOEbs)
+1. [Old MacDonald's Deformed Farm](https://www.youtube.com/watch?v=tqwkJGMOEbs) - Funny!
 
 ## Main Street - 2017 Champions
 
-1. [Evolution of Dance](https://www.youtube.com/watch?v=b8EWVbpUSq4)
-1. [Pop Songs Medley](https://www.youtube.com/watch?v=EQdnzXEFKqM)
+1. [Evolution of Dance](https://www.youtube.com/watch?v=b8EWVbpUSq4) - Funny!
+1. [Pop Songs Medley](https://www.youtube.com/watch?v=EQdnzXEFKqM) - Funny!
 
 ## Masterpiece - 2013 Champions
 
-1. [Tennessee Waltz](https://www.youtube.com/watch?v=BEJBKoSoot8 )
+1. [Tennessee Waltz](https://www.youtube.com/watch?v=BEJBKoSoot8)
 
 ## Max Q - 2007 Champions
 
