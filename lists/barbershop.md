@@ -2,6 +2,7 @@ x
 
 ## Barbershop
 
+1. [2018 Championships - Orlando](http://www.barbershop.org/orlando/)
 1. [xxx](https://www.youtube.com/user/barbershopharmony38?annotation_id=annotation_3850586717&feature=iv&src_vid=BEJBKoSoot8&sub_confirmation=1)
 
 ## Lunch Break
