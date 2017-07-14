@@ -68,6 +68,13 @@
 
 ## Signature
 
+1. 2017 International
+   1. Somebody To Love
+   1. I Know Where I've Been
+   1. Drown In My Own Tears
+   1. Dance With My Fater
+   1. Change Is Gonna Come
+   1. Wake Up Everybody
 1. 2016 International
    1. [At Last (Etta James cover)](https://www.youtube.com/watch?v=0sQi1v1QnAQ)
 1. Misc
