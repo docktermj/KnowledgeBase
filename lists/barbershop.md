@@ -58,6 +58,8 @@
 
 1. 2013 Champions
 1. [Tennessee Waltz](https://www.youtube.com/watch?v=BEJBKoSoot8)
+1. 2013 International
+   1. [Oh Susanna](https://www.youtube.com/watch?v=rVUSK7tPDbA)
 
 ## Max Q
 
