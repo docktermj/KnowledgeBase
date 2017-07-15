@@ -17,6 +17,10 @@
 1. 2016 Champions
 1. [Kiss From a Rose (Seal cover)](https://www.youtube.com/watch?v=lkbyqK77Tdo)
 
+## FRED
+
+1. [Buchers of Harmony](https://www.youtube.com/watch?v=APCQMlwAIDs)
+
 ## Instant Classic
 
 1. 2015 Champions
