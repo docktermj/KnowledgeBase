@@ -22,6 +22,8 @@
 1. 1999 Champions
 1. [Buchers of Harmony](https://www.youtube.com/watch?v=APCQMlwAIDs)
 1. [I Got Rhythm](https://www.youtube.com/watch?v=bpm3EGJlHF4)
+1. 1999 International
+   1. [Medley](https://www.youtube.com/watch?v=bpm3EGJlHF4)
 
 ## Instant Classic
 
