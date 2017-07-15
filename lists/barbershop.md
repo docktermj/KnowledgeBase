@@ -95,7 +95,7 @@
    1. Change Is Gonna Come
    1. Wake Up Everybody
 1. 2016 International
-   1. Somebody To Love
+   1. [Somebody To Love](https://www.youtube.com/watch?v=SiGk3bSHggk)
    1. With a Little Help From My Friends
    1. I'll Drown In My Own Tears
    1. [At Last (Etta James cover)](https://www.youtube.com/watch?v=0sQi1v1QnAQ)
