@@ -54,6 +54,7 @@
    1. [Pretty Baby](https://www.youtube.com/watch?v=71kCrZO6yyA)
 1. Misc
 
+
 ## Masterpiece
 
 1. 2013 Champions
@@ -102,8 +103,8 @@
    1. A Change Is Gonna come
    1. What'll I Do?
 1. Misc
-   1. [Somebody to Love (Queen cover)](https://www.youtube.com/watch?v=SiGk3bSHggk)
    1. [A Change is Gonna Come (Sam Cooke cover)](https://www.youtube.com/watch?v=8RXXQsxvO1Q)
+   1. [Playlist](https://www.youtube.com/watch?list=RDSiGk3bSHggk
 
 ## Storm Front
 
