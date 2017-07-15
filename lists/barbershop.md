@@ -131,7 +131,7 @@
 
 ## Playlists
 
-1. [Playlist](https://www.youtube.com/watch?list=RDSiGk3bSHggk
+1. [Playlist](https://www.youtube.com/watch?list=RDSiGk3bSHggk)
 
 ## Score sheets
 
