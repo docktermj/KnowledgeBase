@@ -111,6 +111,7 @@
 ## Vocal Spectrum
 
 1. 2006 Champions
+1. [Go The Distance](https://www.youtube.com/watch?v=B6FwopHVll8)
 
 ## Playlists
 
