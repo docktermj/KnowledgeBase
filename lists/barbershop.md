@@ -95,7 +95,12 @@
    1. Change Is Gonna Come
    1. Wake Up Everybody
 1. 2016 International
+   1. Somebody To Love
+   1. With a Little Help From My Friends
+   1. I'll Drown In My Own Tears
    1. [At Last (Etta James cover)](https://www.youtube.com/watch?v=0sQi1v1QnAQ)
+   1. A Change Is Gonna come
+   1. What'll I Do?
 1. Misc
    1. [Somebody to Love (Queen cover)](https://www.youtube.com/watch?v=SiGk3bSHggk)
    1. [A Change is Gonna Come (Sam Cooke cover)](https://www.youtube.com/watch?v=8RXXQsxvO1Q)
