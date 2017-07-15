@@ -123,6 +123,7 @@
 
 1. 2010 Champions
 1. [Bohemian Rhapsody (Queen cover)](https://www.youtube.com/watch?v=KId3aK4lRag) - Funny!
+1. [Lida Rose](https://www.youtube.com/watch?v=vWCNiIikbFw)
 
 ## Vocal Spectrum
 
