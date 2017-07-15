@@ -91,7 +91,7 @@
    1. Somebody To Love
    1. I Know Where I've Been
    1. Drown In My Own Tears
-   1. Dance With My Fater
+   1. [Dance With My Father](https://www.youtube.com/watch?v=B6FwopHVll8)
    1. Change Is Gonna Come
    1. Wake Up Everybody
 1. 2016 International
