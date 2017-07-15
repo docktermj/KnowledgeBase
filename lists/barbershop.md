@@ -23,7 +23,11 @@
 1. [Buchers of Harmony](https://www.youtube.com/watch?v=APCQMlwAIDs)
 1. [I Got Rhythm](https://www.youtube.com/watch?v=bpm3EGJlHF4)
 1. 1999 International
-   1. [Medley](https://www.youtube.com/watch?v=bpm3EGJlHF4)
+   1. [Medley: Nincompoopie / ](https://www.youtube.com/watch?v=bpm3EGJlHF4)
+1. 1998 International
+   1. [x](https://www.youtube.com/watch?v=EJN4qPUiRe8)
+1. 1997 International
+   1. [x](https://www.youtube.com/watch?v=xc5d6F9iAig)
 
 ## Instant Classic
 
