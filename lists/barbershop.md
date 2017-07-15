@@ -25,9 +25,11 @@
 1. 1999 International
    1. [Medley: Nincompoopie / ](https://www.youtube.com/watch?v=bpm3EGJlHF4)
 1. 1998 International
-   1. [x](https://www.youtube.com/watch?v=EJN4qPUiRe8)
+   1. [Medley: Fred](https://www.youtube.com/watch?v=EJN4qPUiRe8)
 1. 1997 International
-   1. [x](https://www.youtube.com/watch?v=xc5d6F9iAig)
+   1. [Medley:](https://www.youtube.com/watch?v=xc5d6F9iAig)
+1. 1996 International
+   1. [Medley:](https://www.youtube.com/watch?v=TBYyNobLs-U)
 
 ## Instant Classic
 
