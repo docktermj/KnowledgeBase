@@ -19,6 +19,7 @@
 
 ## FRED
 
+1. 1999 Champions
 1. [Buchers of Harmony](https://www.youtube.com/watch?v=APCQMlwAIDs)
 
 ## Instant Classic
