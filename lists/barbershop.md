@@ -30,7 +30,7 @@
 
 1. 2017 Champions
 1. 2017 International
-   1. Razzle Dazzle
+   1. [Razzle Dazzle](https://www.youtube.com/watch?v=pWqLdTYMN-8)
    1. [Smile](https://www.youtube.com/watch?v=iPEY2SE1vXk)
    1. I'll Take you Dreaming
    1. Life's a Happy Song
