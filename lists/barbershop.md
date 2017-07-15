@@ -115,6 +115,9 @@
    1. [Go The Distance](https://www.youtube.com/watch?v=B6FwopHVll8)
    1. [I Wanna Be Like You](https://www.youtube.com/watch?v=o74fpAy9JQA)
    1. [The Barber of Seville](https://www.youtube.com/watch?v=9ZGHWUMlGsk)
+   1. [Zoot Suite Riot](https://www.youtube.com/watch?v=bomoFLxCyRA)
+   1. [Good Vibrations](https://www.youtube.com/watch?v=NX1VrHqXljc)
+   1. [On The Street Where You Live](https://www.youtube.com/watch?v=p4Rddmg2Mrk)
 
 ## Playlists
 
