@@ -114,6 +114,7 @@
 1. 2015 Barbershop Harmony Australia National Convention=
    1. [Go The Distance](https://www.youtube.com/watch?v=B6FwopHVll8)
    1. [I Wanna Be Like You](https://www.youtube.com/watch?v=o74fpAy9JQA)
+   1. [The Barber of Seville](https://www.youtube.com/watch?v=9ZGHWUMlGsk)
 
 ## Playlists
 
