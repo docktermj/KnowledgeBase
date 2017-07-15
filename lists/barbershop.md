@@ -54,7 +54,6 @@
    1. [Pretty Baby](https://www.youtube.com/watch?v=71kCrZO6yyA)
 1. Misc
 
-
 ## Masterpiece
 
 1. 2013 Champions
@@ -104,7 +103,6 @@
    1. What'll I Do?
 1. Misc
    1. [A Change is Gonna Come (Sam Cooke cover)](https://www.youtube.com/watch?v=8RXXQsxvO1Q)
-   1. [Playlist](https://www.youtube.com/watch?list=RDSiGk3bSHggk
 
 ## Storm Front
 
@@ -115,6 +113,9 @@
 
 1. 2006 Champions
 
+## Playlists
+
+1. [Playlist](https://www.youtube.com/watch?list=RDSiGk3bSHggk
 
 ## Score sheets
 
