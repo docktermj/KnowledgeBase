@@ -99,10 +99,9 @@
    1. With a Little Help From My Friends
    1. I'll Drown In My Own Tears
    1. [At Last (Etta James cover)](https://www.youtube.com/watch?v=0sQi1v1QnAQ)
-   1. A Change Is Gonna come
+   1. [A Change Is Gonna Come](https://www.youtube.com/watch?v=8RXXQsxvO1Q)
    1. What'll I Do?
 1. Misc
-   1. [A Change is Gonna Come (Sam Cooke cover)](https://www.youtube.com/watch?v=8RXXQsxvO1Q)
 
 ## Storm Front
 
