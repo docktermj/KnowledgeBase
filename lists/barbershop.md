@@ -124,6 +124,8 @@
    1. [Zoot Suite Riot](https://www.youtube.com/watch?v=bomoFLxCyRA)
    1. [Good Vibrations](https://www.youtube.com/watch?v=NX1VrHqXljc)
    1. [On The Street Where You Live](https://www.youtube.com/watch?v=p4Rddmg2Mrk)
+1. 2006 International
+   1. [South Rampart Street Parade](https://www.youtube.com/watch?v=yBSsDf8aVQg)
 
 ## Playlists
 
