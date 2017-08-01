@@ -150,6 +150,12 @@
 1. [2017 International](http://www.barbershop.org/files/INTL20170705_QF.OSS1.pdf)
 1. [2016 International](http://www.barbershop.org/files/nashville/INTL20160706_QF.OSS1.pdf)
 1. [2015 International](http://www.barbershop.org/wp-content/uploads/2015/07/INTL20150630_QF.OSS1_.pdf)
+1. [2014 International](http://www.harmonize.ws/harmonetreporter/scores/2014/intl/int14fqt.pdf)
+1. [2013 International](http://www.harmonize.ws/harmonetreporter/scores/2013/intl/int13fqt.pdf)
+1. [2012 International](http://www.harmonize.ws/harmonetreporter/scores/2012/Intl/INT12FQT.pdf)
+1. [2011 International](http://www.harmonize.ws/harmonetreporter/scores/2011/Intl/INT11FQT.pdf)
+1. [2010 International](http://www.harmonize.ws/harmonetreporter/scores/2010/Intl/INT10FQT.pdf)
+1. [2010 International](http://www.harmonize.ws/harmonetreporter/scores/2009/Intl/INT09FQT.pdf)
 
 ## Misc
 
