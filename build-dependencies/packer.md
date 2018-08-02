@@ -6,7 +6,7 @@
 
 ```console
 $ packer version
-Packer v1.0.0
+Packer v1.2.5
 ```
 
 ## Vagrant
@@ -15,7 +15,7 @@ Packer v1.0.0
 
 ```console
 $ vagrant -v
-Vagrant 1.9.1
+Vagrant 2.1.2
 ```
 
 ## VirtualBox
@@ -24,7 +24,7 @@ Vagrant 1.9.1
 
 ```console
 $ vboxmanage --version
-5.1.22
+5.1.38_Ubuntur122592
 ```
 
 ## VirtualBox Guest Additions
