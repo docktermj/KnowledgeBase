@@ -44,7 +44,7 @@
     1. Go installation:
         1. Directory: /usr/local/go
     1. Eclipse GOPATH
-        1. :ballot_box_with_check: Use same value as the GOPATH environment variable
+        1. :white_check_mark: Use same value as the GOPATH environment variable
         1. :ballot_box_with_check: Also add project location to GOPATH, if it's not contained there already.
 1. Build Console
 1. Editor
