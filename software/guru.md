@@ -4,7 +4,7 @@
 
 ## Install
 
-### macOS
+### macOS install
 
 1. Install.
 
