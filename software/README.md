@@ -2,8 +2,6 @@
 
 ## Contents
 
-## List
-
 [A](#A)
 [B](#B)
 [C](#C)
@@ -32,8 +30,6 @@
 [Z](#Z)
 
 ### A
-
-=== A - F ===
 
 1. [Adobe Acrobat](#todo)
 1. [alpine](#todo)
@@ -92,7 +88,7 @@
 
 ### E
 
-1. [Eclipse](#todo)
+1. [Eclipse](eclipse.md)
 1. [EggHead.io](#todo) - Software education courses
 1. [EyeTV](#todo)
 
