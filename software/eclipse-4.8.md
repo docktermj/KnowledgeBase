@@ -13,8 +13,8 @@
     ```
 
 1. Choose:
-    1. Eclipse IDE for JavaScript and Web Developers
     1. Eclipse IDE for Java Developers
+    1. Eclipse IDE for JavaScript and Web Developers
 
 ## References
 
