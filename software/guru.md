@@ -1,5 +1,7 @@
 # guru
 
+[Software](README.md#G) > guru
+
 [Using Go Guru](http://golang.org/s/using-guru)
 
 ## Install

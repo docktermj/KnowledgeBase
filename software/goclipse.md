@@ -1,5 +1,7 @@
 # goclipse
 
+[Software](README.md#G) > goclipse
+
 [GoClipse](https://marketplace.eclipse.org/content/goclipse) in Eclipse Marketplace.
 
 ## Install

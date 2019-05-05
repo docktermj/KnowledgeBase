@@ -1,5 +1,7 @@
 # Eclipse 4.8 - Photon
 
+[Software](README.md#E) > [eclipse](eclipse.md) > Eclipse 4.8
+
 ## Install
 
 1. Visit [eclipse.org/photon](https://eclipse.org/photon/)

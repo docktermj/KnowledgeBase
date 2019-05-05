@@ -1,5 +1,7 @@
 # PyDev
 
+[Software](README.md#P) > PyDev
+
 Eclipse Python development tools.
 
 ## Install

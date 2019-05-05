@@ -1,10 +1,12 @@
 # Eclipse
 
+[Software](README.md#E) > eclipse
+
 ## Versions
 
 1. [Eclipse 4.8](eclipse-4.8.md) - Photon
 1. Eclipse 4.7 - Oxygen
-1. Eclipse 4.6 - Neon
+1. [Eclipse 4.6](eclipse-4.6.md) - Neon
 1. Eclipse 3.8 - Juno
 1. [Wikipedia Eclipse releases](https://en.wikipedia.org/wiki/Eclipse_%28software%29#Releases)
 
