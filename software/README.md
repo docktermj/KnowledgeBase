@@ -31,256 +31,258 @@
 
 ### A
 
-1. [Adobe Acrobat](#todo)
-1. [alpine](#todo)
-1. [Amazon prime instant video](#todo)
-1. [Amazon Web Services](#todo)
-1. [Angular.js](#todo)
-1. [Apache](#todo)
-1. [Apigility](#todo) - PHP API code generator
-1. [apt-get](#todo)
-1. [Awk](#todo)
-1. [aws](#todo) - Amazon Web Services Command Line Interface (CLI)
+1. Adobe Acrobat
+1. alpine
+1. Amazon prime instant video
+1. Amazon Web Services
+1. Angular.js
+1. Apache
+1. Apigility - PHP API code generator
+1. apt-get
+1. Awk
+1. aws - Amazon Web Services Command Line Interface (CLI)
 
 ### B
 
-1. [Babel](#todo) - Transcoder for [Node.js](#todo) javascript
-1. [Balsamiq](#todo)
-1. [Berkshelf](#todo)
-1. [Bash](#todo)
-1. [BeyondCompare](#todo)
-1. [Blender](#todo)
-1. [Bootstrap](#todo)
-1. [Boto](#todo)
+1. Babel - Transcoder for Node.js javascript
+1. Balsamiq
+1. Berkshelf
+1. Bash
+1. BeyondCompare
+1. Blender
+1. Bootstrap
+1. Boto
 
 ### C
 
-1. [CamStudio](#todo) - Screen recorder
-1. [CCleaner](#todo)
-1. [Celery](#todo)
-1. [CentOS](#todo)
-1. [Chef](#todo)
-    1. [Chef issues](#todo)
-    1. [Chef server](#todo)
-1. [Chai](#todo) - BDD/TDD assertion library for node.js and the browser.
-1. [Cloud-init](#todo)
-1. [CloudEstuary](#todo)
-1. [Cloud foundry](#todo)
-1. [CodeCov](#todo) - Code coverage
-1. [Commitizen](#todo) - [NPM](#todo) program for formatting [Git](#todo) commit log messages.
-1. [Corel Draw](#todo)
-1. [Composer](#todo)
-1. [Conjure-up](#todo)
-1. [CSS](#todo)
-1. [curl](#todo)
+1. CamStudio - Screen recorder
+1. CCleaner
+1. Celery
+1. CentOS
+1. Chef
+    1. Chef issues
+    1. Chef server
+1. Chai - BDD/TDD assertion library for node.js and the browser.
+1. Cloud-init
+1. CloudEstuary
+1. Cloud foundry
+1. CodeCov - Code coverage
+1. Commitizen - NPM program for formatting Git commit log messages.
+1. Corel Draw
+1. Composer
+1. Conjure-up
+1. CSS
+1. curl
 
 ### D
 
-1. [Docker](#todo)
-1. [Docker-compose](#todo)
-1. [CrashPlan](#todo) - An offsite data backup.
-1. [Deja-Dup](#todo) - Backup Tool
-1. [Django](#todo) - Python web framework
-    1. [Django Debug Toolbar](#todo)
-    1. [Django REST framework](#todo)
-1. [dr-scripts](#todo)
-1. [Dragon Naturally Speaking](#todo)
+1. [docker](dockter.md) - Container / virtualization
+1. docker-compose
+1. CrashPlan - An offsite data backup.
+1. Deja-Dup - Backup Tool
+1. Django - Python web framework
+    1. Django Debug Toolbar
+    1. Django REST framework
+1. dr-scripts
+1. Dragon Naturally Speaking
 
 ### E
 
 1. [Eclipse](eclipse.md)
-1. [EggHead.io](#todo) - Software education courses
-1. [EyeTV](#todo)
+1. EggHead.io - Software education courses
+1. EyeTV
 
 ### F
 
-1. [FastClick](#todo)
-1. [FireFox](#todo)
-1. [fpm](#todo)
-1. [Free Software](#todo)
+1. FastClick
+1. FireFox
+1. fpm
+1. Free Software
 
 ### G
 
-1. [Gimp](#todo) - Image editor
-1. [Git](#todo) - A source control management system
-1. [GitLab](#todo)
-1. [GitHub](#todo)
-1. [Gnome](#todo)
-1. [Go](#todo)
-1. [GoClipse](#todo)
-1. [Google ads](#todo)
-1. [Google Chrome](#todo)
-1. [grep](#todo)
-1. [gulp](#todo)
+1. Gimp - Image editor
+1. Git - A source control management system
+1. GitLab
+1. GitHub
+1. Gnome
+1. Go
+1. [goclipse](goclipse.md) - Eclipse plugin for Golang
+1. [godef](godef.md) - Golang symbols where defined
+1. Google ads
+1. Google Chrome
+1. grep
+1. gulp
+1. [guru](guru.md) - Golang source code analyzer
 
 ### H
 
-1. [Hadoop](#todo)
-1. [HDHomeRun](#todo) - Hardware to transform Antenna Digital TV to TCP/IP
-1. [Homebrew](#todo)
-1. [HTML](#todo)
+1. Hadoop
+1. HDHomeRun - Hardware to transform Antenna Digital TV to TCP/IP
+1. Homebrew
+1. HTML
 
 ### I
 
-1. [iptables](#todo) - Linux IP tables
-1. [Istanbul](#todo) - [NPM](#todo) code coverage tool
+1. iptables - Linux IP tables
+1. Istanbul - NPM code coverage tool
 
 ### J
 
-1. [Jade](#todo)
-1. [JavaScript](#todo)
-1. [Jazz](#todo)
-1. [Jenkins](#todo) - Continuous integration
-1. [JIRA](#todo)
-1. [JMeter](#todo)
-1. [JSON](#todo)
-1. [jQuery](#todo)
-    1. [jQuery mobile](#todo)
-1. [Jupyter](#todo)
+1. Jade
+1. JavaScript
+1. Jazz
+1. Jenkins - Continuous integration
+1. JIRA
+1. JMeter
+1. JSON
+1. jQuery
+    1. jQuery mobile
+1. Jupyter
 
 ### K
 
-1. [Kafka](#todo)
-1. [KeyFinder](#todo) - Find product keys on an existing system
-1. [Kinesis](#todo) - [AWS](#todo) "data in motion"
-1. [Knife](#todo) - Tool for [Chef](#todo)
-1. [Kubernetes](#todo)
-    1. [kubectl](#todo)
-    1. [minikube](#todo)
-1. [KVM](#todo) - Kernel Virtual Machine, a Linux "VMware"
+1. Kafka
+1. KeyFinder - Find product keys on an existing system
+1. Kinesis - AWS "data in motion"
+1. Knife - Tool for Chef
+1. Kubernetes
+    1. kubectl
+    1. minikube
+1. KVM - Kernel Virtual Machine, a Linux "VMware"
 
 ### L
 
-1. [LastPass](#todo) - Password manager
-1. [Linux](#todo) - An operating system
-1. [Lua](#todo) - Scripting language.  Can be used for [Nginx](#todo), [Redis](#todo)
+1. LastPass - Password manager
+1. Linux - An operating system
+1. Lua - Scripting language.  Can be used for Nginx, Redis
 
 ### M
 
-1. [make](#todo)
-1. [Mantis](#todo)
-1. [Markdown](#todo)
-1. [Maven](#todo)
-1. [MediaWiki](#todo)
-1. [Memcached](#todo)
-1. [Microsoft Office](#todo)
-1. [Microsoft Visio](#todo)
-1. [Mocha](#todo) - [NPM](#todo) test framework
-1. [mySQL](#todo)
-    1. [mySQL Workbench](#todo)
+1. make
+1. Mantis
+1. Markdown
+1. Maven
+1. MediaWiki
+1. Memcached
+1. Microsoft Office
+1. Microsoft Visio
+1. Mocha - NPM test framework
+1. mySQL
+    1. mySQL Workbench
 
 ### N
 
-1. [Nginx](#todo) - Web server
-1. [Nuance PDF Converter](#todo)
-1. [Nuance Power PDF](#todo)
-1. [Node.js](#todo) - Execution runner for [JavaScript](#todo)
-1. [Node-RED](#todo)
-1. [NPM](#todo) - [Node.js](#todo) package manager
-1. [macOS](#todo)
+1. Nginx - Web server
+1. Nuance PDF Converter
+1. Nuance Power PDF
+1. Node.js - Execution runner for JavaScript
+1. Node-RED
+1. NPM - Node.js package manager
+1. macOS
 
 ### O
 
 ### P
 
-1. [Packer](#todo)
-1. [PageSpeed](#todo)
-1. [PHP](#todo)
-1. [phpMyAdmin](#todo)
-1. [phpSysInfo](#todo)
-1. [Pig](#todo)
-1. [pip](#todo)
-1. [Puppet](#todo)
-1. [PyDev](#todo)
-1. [Pysparkling](#todo)
-1. [Python](#todo)
+1. Packer
+1. PageSpeed
+1. PHP
+1. phpMyAdmin
+1. phpSysInfo
+1. Pig
+1. pip
+1. Puppet
+1. [PyDev](pydev.md)
+1. Pysparkling
+1. Python
 
 ### Q
 
-1. [Qt](#todo) - Cross platform for C++
-1. [Quicken](#todo)
+1. Qt - Cross platform for C++
+1. Quicken
 
 ### R
 
-1. [R](#todo)
-1. [Rational Team Concert](#todo)
-1. [React](#todo)
-1. [Redis](#todo)
-1. [Redux](#todo) - NodeJS state management.
-1. [RegEx](#todo)
-1. [RequireJS](#todo)
-1. [REST](#todo)
-1. [Revo Uninstaller](#todo)
-1. [Roxio Creator](#todo)
-1. [Ruby](#todo)
+1. R
+1. Rational Team Concert
+1. React
+1. Redis
+1. Redux - NodeJS state management.
+1. RegEx
+1. RequireJS
+1. REST
+1. Revo Uninstaller
+1. Roxio Creator
+1. Ruby
 
 ### S
 
-1. [Scala](#todo)
-1. [Semantic release](#todo) - Pushing from [GitHub](#todo) with correct release info.
-1. [sed](#todo)
-1. [shields.io](#todo) - Badges from various services: [GitHub](#todo), [Travis CI](#todo), [Coddecov](#todo), etc.
-1. [Slack](#todo)
-1. [SlickEdit](#todo)
-1. [SlingPlayer](#todo)
-1. [Spark](#todo)
-1. [Subversion](#todo)
-1. [Swagger](#todo)
-1. [Swift](#todo)
-1. [Synaptic Package Manager](#todo)
+1. Scala
+1. Semantic release - Pushing from GitHub with correct release info.
+1. sed
+1. shields.io - Badges from various services: GitHub, Travis CI, Coddecov, etc.
+1. Slack
+1. SlickEdit
+1. SlingPlayer
+1. Spark
+1. Subversion
+1. Swagger
+1. Swift
+1. Synaptic Package Manager
 
 ### T
 
-1. [Terraform](#todo)
-1. [Test Kitchen](#todo)
-1. [Travis CI](#todo) - Service for continuous integration
-1. [TortoiseSVN](#todo)
-1. [TightVNC](#todo)
-1. [Tvheadend](#todo)
+1. Terraform
+1. Test Kitchen
+1. Travis CI - Service for continuous integration
+1. TortoiseSVN
+1. TightVNC
+1. Tvheadend
 
 ### U
 
-1. [Ubuntu](#todo)
-1. [Uverse](#todo)
-1. [Uwsgi](#todo)
+1. Ubuntu
+1. Uverse
+1. Uwsgi
 
 ### V
 
-1. [Vagrant](#todo)
-1. [Viper](#todo) - go context variable management (commandline options, env vars, properties file)
-1. [VirtualBox](#todo)
-1. [VMware Workstation](#todo)
-1. [Votini](#todo)
+1. Vagrant
+1. Viper - go context variable management (commandline options, env vars, properties file)
+1. VirtualBox
+1. VMware Workstation
+1. Votini
 
 ### W
 
-1. [Web performance tools](#todo)
-1. [Web-based SSH](#todo)
-1. [Webpack](#todo)
-1. [WebPageTest](#todo)
-1. [WebSockets](#todo)
-1. [WebSvn](#todo)
-1. [WinDirStat](#todo)
-1. [Windows](#todo)
-1. [Wireshark](#todo)
+1. Web performance tools
+1. Web-based SSH
+1. Webpack
+1. WebPageTest
+1. WebSockets
+1. WebSvn
+1. WinDirStat
+1. Windows
+1. Wireshark
 
 ### X
 
-1. [Xcode](#todo)
+1. Xcode
 
 ### Y
 
-1. [YouTube](#todo)
-1. [yarn](#todo)
-1. [ySlow](#todo)
-1. [yum](#todo)
+1. YouTube
+1. yarn
+1. ySlow
+1. yum
 
 ### Z
 
-1. [Zend Framework 2](#todo)
-1. [Zend Studio](#todo)
-1. [Zend Debugger](#todo)
-1. [ZenHub](#todo)
-1. [ZooKeeper](#todo)
+1. Zend Framework 2
+1. Zend Studio
+1. Zend Debugger
+1. ZenHub
+1. ZooKeeper
 
 ### Todo
