@@ -3,9 +3,9 @@
 ## Versions
 
 1. [Eclipse 4.8](eclipse-4.8.md) - Photon
-1. [Eclipse 4.7](eclipse-4.7.md) - Oxygen
-1. [Eclipse 4.6](eclipse-4.6.md) - Neon
-1. [Eclipse 3.8](eclipse-3.8.md) - Juno
+1. Eclipse 4.7 - Oxygen
+1. Eclipse 4.6 - Neon
+1. Eclipse 3.8 - Juno
 1. [Wikipedia Eclipse releases](https://en.wikipedia.org/wiki/Eclipse_%28software%29#Releases)
 
 ## Eclipse MarketPlace
@@ -15,8 +15,8 @@ Recommended:
 1. Bash Editor 2.0.1
 1. Eclipse Docker Tooling  4.0.0.201806122135
 1. Eclipse Marketplace Client 1.7.6
-1. GoClipse - Supports the Go programming language
-1. PyDev - Python IDE for Eclipse 7.2.0
+1. [GoClipse](goclipse.md) - Supports the Go programming language
+1. [PyDev](pydev.md) - Python IDE for Eclipse 7.2.0
 
 Optional:
 

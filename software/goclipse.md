@@ -39,7 +39,6 @@
 
 ### macOS Configuration
 
-
 1. Eclipse > Eclipse > Preferences... > Go
 1. Go
     1. Go installation:

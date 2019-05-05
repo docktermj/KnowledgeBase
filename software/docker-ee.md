@@ -1,5 +1,7 @@
 # docker-ee
 
+[docker](docker.md) > docker-ee
+
 ## Install
 
 ### XX
@@ -7,7 +9,7 @@
 1. [store.docker.com/procurement](https://store.docker.com/procurement)
     1. Enter activation key
 1. Username > My Content  
-    1.  Docker Enterprise > [Setup](https://hub.docker.com/u/senzing/content/sub-63e3629a-88e0-4993-9588-0d5e53b9e94e)
+    1. Docker Enterprise > [Setup](https://hub.docker.com/u/senzing/content/sub-63e3629a-88e0-4993-9588-0d5e53b9e94e)
     1. [Get Docker EE for Ubuntu](https://docs.docker.com/install/linux/docker-ee/ubuntu/)
     1. My-Content URL.  Example:  
 
@@ -15,6 +17,7 @@
         export DOCKER_USERNAME=dockter
         echo "https://hub.docker.com/u/${DOCKER_USERNAME}/content"
         ```
+
 1. Download "Resources > License Key"
 
 1. Choose correct acccount.
@@ -24,7 +27,7 @@
     ```console
     # Find local ip address
     ifconfig
-    
+
     set LOCAL_IP_ADDRESS=127.0.0.1
     ```
 
