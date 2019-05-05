@@ -7,7 +7,7 @@
 1. [Eclipse 4.8](eclipse-4.8.md) - Photon
 1. Eclipse 4.7 - Oxygen
 1. [Eclipse 4.6](eclipse-4.6.md) - Neon
-1. Eclipse 3.8 - Juno
+1. [Eclipse 3.8](eclipse-3.8.md) - Juno
 1. [Wikipedia Eclipse releases](https://en.wikipedia.org/wiki/Eclipse_%28software%29#Releases)
 
 ## Eclipse MarketPlace
@@ -34,6 +34,7 @@ Optional:
 1. Enide.p2f - Eclipse Node.js IDE 1.0.1
 1. JSON Editor Plugin
 1. LiClipseText
+1. [Lua Development Tools](http://www.eclipse.org/ldt/)
 1. Nodeclipse.github.io 1.0.2
 1. PHP Development Tools 6.0
 1. Remote System Explorer (SSH, Telnet, FPTP and DStore protocols) 3.5.0
