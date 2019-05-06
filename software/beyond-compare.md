@@ -1,5 +1,7 @@
 # Beyond Compare
 
+[Software](README.md#B) > Beyond Compare
+
 ## Installation
 
 1. [Linux Installation Instructions](https://www.scootersoftware.com/download.php?zz=kb_linux_install)

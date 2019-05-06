@@ -1,5 +1,7 @@
 # anyedit
 
+[Software](README.md#A) > anyedit
+
 [AnyEdit tools plugin for Eclipse](http://andrei.gmxhome.de/anyedit/),
 an Eclipse plugin.
 

@@ -1,5 +1,7 @@
 # Slack
 
+[Software](README.md#S) > slack
+
 ## Installation
 
 ### Ubuntu installation
