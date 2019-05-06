@@ -27,7 +27,7 @@
     ```console
     for DOCKER_IMAGE_NAME in ${DOCKER_IMAGE_NAMES[@]}; \
     do \
-      NEW_IMAGE_NAME=${DOCKER_REGISTRY_URL}/${DOCKER_IMAGE_NAME}:${GIT_TAG}; \
+      export NEW_IMAGE_NAME=${DOCKER_REGISTRY_URL}/${DOCKER_IMAGE_NAME}:${GIT_TAG}; \
       sudo docker tag ${DOCKER_IMAGE_NAME} ${NEW_IMAGE_NAME}; \
       sudo docker push ${NEW_IMAGE_NAME}; \
       sudo docker rmi  ${NEW_IMAGE_NAME}; \
