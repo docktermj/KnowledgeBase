@@ -134,4 +134,4 @@ sudo docker push dockter/docker-alpine:3.1
     1.[Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 1. [Docker Hub](https://hub.docker.com/)
 1. [How To Remove Docker Images, Containers, and Volumes](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
-1. [[docker-compose]]
+1. [docker-compose](docker-compose.md)
