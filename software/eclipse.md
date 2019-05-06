@@ -45,3 +45,9 @@ Optional:
 ## Configuration
 
 1. [AnyEdit](anyedit.md#configuration)
+1. Show line numbers
+    1. Eclipse > Window > Preferences > General > Editors > Text Editors
+        1. [x] Show line numbers
+1. Spaces, not tabs
+    1. Eclipse > Window > Preferences > General > Editors > Text Editors
+        1. [x] Insert spaces for tabs
