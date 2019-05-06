@@ -14,6 +14,7 @@
 
 Recommended:
 
+1. [AnyEdit](anyedit.md)
 1. Bash Editor 2.0.1
 1. Eclipse Docker Tooling  4.0.0.201806122135
 1. Eclipse Marketplace Client 1.7.6

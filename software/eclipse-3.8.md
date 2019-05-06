@@ -138,8 +138,6 @@
         -installIU org.eclipse.ldt.source.feature.group
     ```
 
-
-
 ## Using Eclipse marketplace to install plugins
 
 1. Site: [marketplace.eclipse.org](https://marketplace.eclipse.org/)
