@@ -78,7 +78,7 @@
 ### D
 
 1. [docker](dockter.md) - Container / virtualization
-1. docker-compose
+1. [docker-compose](docker-compose.md) - Docker container orchestration
 1. CrashPlan - An offsite data backup.
 1. Deja-Dup - Backup Tool
 1. Django - Python web framework
