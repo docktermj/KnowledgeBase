@@ -4,9 +4,9 @@
 
 [Using Go Guru](http://golang.org/s/using-guru)
 
-## Install
+## Installation
 
-### macOS install
+### macOS installation
 
 1. Install.
 

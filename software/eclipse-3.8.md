@@ -2,9 +2,9 @@
 
 [Software](README.md#E) > [eclipse](eclipse.md) > Eclipse 3.8
 
-## Install
+## Installation
 
-### Ubuntu
+### Ubuntu installation
 
 1. Example:
 

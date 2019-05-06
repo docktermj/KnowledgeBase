@@ -41,3 +41,7 @@ Optional:
 1. Remote System Explorer (SSH, Telnet, FPTP and DStore protocols) 3.5.0
 1. Yaml Editor
 1. YEdit
+
+## Configuration
+
+1. [AnyEdit](anyedit.md#configuration)

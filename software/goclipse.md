@@ -4,7 +4,7 @@
 
 [GoClipse](https://marketplace.eclipse.org/content/goclipse) in Eclipse Marketplace.
 
-## Install
+## Installation
 
 1. Install [Eclipse 4.8](eclipse-4.8) or later
 1. Eclipse > Help > Eclipse Marketplace...

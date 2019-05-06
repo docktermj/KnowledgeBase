@@ -2,9 +2,9 @@
 
 [Software](README.md#E) > [eclipse](eclipse.md) > Eclipse 4.8
 
-## Install
+## Installation
 
-### Ubuntu install
+### Ubuntu installation
 
 1. Visit [eclipse.org/photon](https://eclipse.org/photon/)
 1. Download `eclipse-inst-linux64.tar.gz` to /tmp

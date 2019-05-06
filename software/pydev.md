@@ -4,7 +4,7 @@
 
 Eclipse Python development tools.
 
-## Install
+## Installation
 
 1. Eclipse > Help > Eclipse Marketplace...
     1. Search for "PyDev"

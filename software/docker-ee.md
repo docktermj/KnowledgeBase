@@ -2,16 +2,16 @@
 
 [Software](README.md#D) > [docker](docker.md) > docker-ee
 
-## Install
+## Installation
 
 ### XX
 
 1. [store.docker.com/procurement](https://store.docker.com/procurement)
     1. Enter activation key
-1. Username > My Content  
+1. Username > My Content
     1. Docker Enterprise > [Setup](https://hub.docker.com/u/senzing/content/sub-63e3629a-88e0-4993-9588-0d5e53b9e94e)
     1. [Get Docker EE for Ubuntu](https://docs.docker.com/install/linux/docker-ee/ubuntu/)
-    1. My-Content URL.  Example:  
+    1. My-Content URL.  Example:
 
         ```console
         export DOCKER_USERNAME=dockter
@@ -44,7 +44,7 @@
         --interactive
     ```
 
-### Ubuntu install
+### Ubuntu installation
 
 1. [Get Docker EE for Ubuntu](https://docs.docker.com/install/linux/docker-ee/ubuntu/)
 

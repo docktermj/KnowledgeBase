@@ -3,11 +3,11 @@
 [AnyEdit tools plugin for Eclipse](http://andrei.gmxhome.de/anyedit/),
 an Eclipse plugin.
 
-## Install
+## Installation
 
 Use [Eclipse Marketplace](eclipse-marketplace.md)
 
-## Configure
+## Configuration
 
 1. Eclipse > Window > Preferences > General > Editors > AnyEdit Tools
     1. Auto-convert

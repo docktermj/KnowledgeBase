@@ -5,8 +5,8 @@
 1. [Command godef](https://godoc.org/github.com/rogpeppe/godef)
 1. [GitHub](https://github.com/rogpeppe/godef)
 
-## Install
+## Installation
 
-### macOS install
+### macOS installation
 
 1. Install.
