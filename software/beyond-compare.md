@@ -17,7 +17,7 @@
 ## Tips
 
 1. [Tips for Using BC for Linux](https://www.scootersoftware.com/support.php?zz=kb_linuxtips)
-1.Renew:
+1. Renew:
 
     ```console
     mv ~/.config/bcompare  mv ~/.config/bcompare.$(date +%s)
