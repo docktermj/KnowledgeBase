@@ -6,6 +6,10 @@
 
 1. [Linux Installation Instructions](https://www.scootersoftware.com/download.php?zz=kb_linux_install)
 
+### Ubuntu installation
+
+1. Search for "bcompare" then install.
+
 ## Configuration
 
 ## Uninstallation
