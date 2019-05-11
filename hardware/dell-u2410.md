@@ -12,5 +12,5 @@
 
 1. [Dell UltraSharp U2410 61 cm (24") Widescreen Monitor](http://www.dell.com/ae/business/p/dell-u2410/pd)
 1. [Product Support](http://www.dell.com/support/home/us/en/04/product-support/product/dell-u2410/get-started)
-1. [User Guide](ftp://ftp.dell.com/Manuals/all-products/esuprt_electronics/esuprt_Display/dell-u2410_User%27s%20Guide_en-us.pdf)
-1. [Manual](ftp://ftp.dell.com/Manuals/all-products/esuprt_electronics/esuprt_Display/dell-u2410_Setup%20Guide_en-us.pdf)
+1. User Guide -ftp://ftp.dell.com/Manuals/all-products/esuprt_electronics/esuprt_Display/dell-u2410_User%27s%20Guide_en-us.pdf
+1. Manual - ftp://ftp.dell.com/Manuals/all-products/esuprt_electronics/esuprt_Display/dell-u2410_Setup%20Guide_en-us.pdf
