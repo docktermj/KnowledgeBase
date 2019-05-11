@@ -29,6 +29,10 @@
 [Y](#Y)
 [Z](#Z)
 
+### D
+
+1. [Dell U2410](dell-u2410.md)
+
 ### G
 
 1. [GeForce GTS 450](geforce-gts-450)
