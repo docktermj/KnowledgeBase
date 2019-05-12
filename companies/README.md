@@ -31,12 +31,4 @@
 
 ### A
 
-1. [APC Back-UPS Pro 650](apc-back-ups-pro-650.md)
-
-### D
-
-1. [Dell U2410](dell-u2410.md)
-
-### G
-
-1. [GeForce GTS 450](geforce-gts-450)
+1. [Atbatt](atbatt.md)
