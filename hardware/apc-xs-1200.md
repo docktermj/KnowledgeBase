@@ -1,6 +1,6 @@
-# APC XS 1000
+# APC XS 1200
 
-1. Model Number: BX1000
+1. Model Number: BX1200
 1. Replacement Battery
     1. [atbatt.com](../companies/atbatt.md) SKU: 2XAP-1270F2 (Item #21657)
         1. [Product page](http://www.atbatt.com/product/21657.asp)
