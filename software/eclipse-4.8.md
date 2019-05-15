@@ -4,7 +4,7 @@
 
 ## Installation
 
-### Ubuntu installation
+### Installation on Ubuntu
 
 1. Visit [eclipse.org/photon](https://eclipse.org/photon/)
 1. Download `eclipse-inst-linux64.tar.gz` to /tmp

@@ -11,7 +11,7 @@
 1. [Install Workstation Pro on a Linux Host](https://docs.vmware.com/en/VMware-Workstation-Pro/12.0/com.vmware.ws.using.doc/GUID-1F5B1F14-A586-4A56-83FA-2E7D8333D5CA.html)
 1. [VMware License keys](https://my.vmware.com/group/vmware/my-licenses#/prodFilter)
 
-### Ubuntu 18.04 specific
+### Installation on Ubuntu 18.04
 
 1. [VMWare does not start](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1715552)
     1. [Comment #26](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1715552/comments/26)

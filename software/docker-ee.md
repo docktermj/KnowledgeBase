@@ -4,7 +4,7 @@
 
 ## Installation
 
-### XX
+### Installation on ???
 
 1. [store.docker.com/procurement](https://store.docker.com/procurement)
     1. Enter activation key
@@ -44,7 +44,7 @@
         --interactive
     ```
 
-### Ubuntu installation
+### Installation on Ubuntu
 
 1. [Get Docker EE for Ubuntu](https://docs.docker.com/install/linux/docker-ee/ubuntu/)
 

@@ -6,7 +6,7 @@
 
 ## Installation
 
-### macOS installation
+### Installation on macOS
 
 1. Install.
 

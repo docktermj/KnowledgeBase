@@ -4,7 +4,7 @@
 
 ## Installation
 
-### Ubuntu installation
+### Installation on Ubuntu
 
 1. Example:
 
@@ -12,7 +12,7 @@
     sudo snap install slack --classic
     ```
 
-### macOS installation
+### Installation on macOS
 
 1. Visit Mac App Store
     1. Search for Slack

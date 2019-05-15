@@ -4,7 +4,7 @@
 
 ## Installation
 
-### Ubuntu installation
+### Installation on Ubuntu
 
 1. Example:
 

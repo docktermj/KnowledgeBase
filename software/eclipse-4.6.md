@@ -4,7 +4,7 @@
 
 ## Installation
 
-### Ubuntu installation
+### Installation on Ubuntu
 
 1. Visit [eclipse.org/neon](https://eclipse.org/neon/)
 1. Download `eclipse-inst-linux64.tar.gz` to `/tmp`

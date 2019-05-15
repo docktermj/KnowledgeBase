@@ -13,7 +13,7 @@
 
 ## Configuration
 
-### Linux Configuration
+### Configuration on Linux
 
 1. Eclipse > Window > Preferences > Go
 1. Go
@@ -39,7 +39,7 @@
         1. Executable: /usr/local/go/bin/gofmt
         1. [ ] Format automatically on editor save
 
-### macOS Configuration
+### Configuration on macOS
 
 1. Eclipse > Eclipse > Preferences... > Go
 1. Go

@@ -4,7 +4,7 @@
 
 ## Installation
 
-### Ubuntu 14.04 (LTS) installation
+### Installation on Ubuntu 14.04 (LTS)
 
 1. Example:
 
@@ -46,7 +46,7 @@
     sudo chmod 777 /var/run/docker.sock
     ```
 
-### macOS installation
+### Installation on macOS
 
 1. Install Chocolatey from [chocolatey.org](https://chocolatey.org/)
 
@@ -56,7 +56,7 @@
 
 1. [Get started with Docker on Windows using Chocolatey](https://stefanscherer.github.io/get-started-with-docker-on-windows-using-chocolatey/)
 
-### Windows 10 on VMware Workstation installation
+### Installation on Windows 10 on VMware Workstation
 
 1. VMware > {VMware image} > Settings > Processors
     1.Virtualization Engine > Preferred mode: Intel VT-x or AMD-V
