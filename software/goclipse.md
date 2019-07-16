@@ -55,12 +55,17 @@
             1. Indentation mode: Spaces
 1. Tools
     1. gocode:
-        1. Executable: /usr/local/go/bin/go
+        1. Executable: `/usr/local/go/bin/go`
     1. guru:
-        1. Executable:
+        1. Executable: `/usr/local/go/bin/guru`
     1. godef:
-        1. Executable:
+        1. Executable: `/usr/local/go/bin/godef`
     1. gofmt:
         1. :ballot_box_with_check: Use default location (from Go installation).
-        1. Executable: /usr/local/go/bin/gofmt
+        1. Executable: `/usr/local/go/bin/gofmt`
         1. :black_square_button: Format automatically on editor save
+
+## References
+
+1. [Install GoClipse](https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation)
+    1. [README](https://github.com/GoClipse/goclipse/blob/master/README.md)
