@@ -34,9 +34,9 @@
         1. Executable: `/usr/local/go/bin/guru`
     1. [godef](godef.md):
         1. Executable: `/usr/local/go/bin/godef`
-    1. gofmt:
+    1. [gofmt](gofmt.md):
         1. :ballot_box_with_check:  Use default location (from Go installation).
-        1. Executable: /usr/local/go/bin/gofmt
+        1. Executable: `/usr/local/go/bin/gofmt`
         1. :black_square_button: Format automatically on editor save
 
 ### Configuration on macOS
