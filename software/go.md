@@ -48,46 +48,17 @@
     EOT
     ```
 
+## Tools
+
+Install the following tools:
+
+1. [GoCode](gocode.md#installation)
+1. [GoDef](godef.md#installation)
+1. [guru](guru.md#installation)
+
 ## Eclipse
 
 1. See [GoClipse](goclipse.md)
-
-## Tools
-
-### Guru
-
-1. [Setting up Guru](https://docs.google.com/document/d/1_Y9xCEMj5S-7rv2ooHpZNH15JgRT5iM742gJkw5LtmQ/edit#heading=h.lqvxysurdpv6)
-
-1. xxx
-
-    ```console
-    go get   golang.org/x/tools/cmd/guru
-    go build golang.org/x/tools/cmd/guru
-    sudo mv guru $(go env GOROOT)/bin
-    guru --help
-    ```
-
-### Gocode
-
-1. xxx
-
-    ```console
-    go get   github.com/nsf/gocode
-    go build github.com/nsf/gocode
-    sudo mv gocode $(go env GOROOT)/bin
-    gocode --help
-    ```
-
-### GoDef
-
-1. xxx
-
-    ```console
-    go get   github.com/rogpeppe/godef
-    go build github.com/rogpeppe/godef
-    sudo mv godef $(go env GOROOT)/bin
-    godef --help
-    ```
 
 ## Standards
 

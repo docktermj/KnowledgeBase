@@ -7,6 +7,11 @@
 
 ## Installation
 
-### Installation on macOS
+1. Install
 
-1. Install.
+    ```console
+    go get   github.com/rogpeppe/godef
+    go build github.com/rogpeppe/godef
+    sudo mv godef $(go env GOROOT)/bin
+    godef --help
+    ```
