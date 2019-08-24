@@ -62,6 +62,9 @@ Install the following tools:
 
 ## Standards
 
+1. [Go Documentation](https://golang.org/doc)
+    1. [How to Write Go Code](https://golang.org/doc/code.html)
+    1. [Effective Go](https://golang.org/doc/effective_go.html)
 1. [github.com/golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 
 ## Awesome
