@@ -46,6 +46,14 @@
     rm -rf ~/${MINISHIFT_TGZ}/*
     ```
 
+## Commands
+
+### xxx
+
 ## References
 
 1. [Openshift with minishift setup](http://raman-kumar.blogspot.com/2019/08/openshift-okd-cluster-with-minishift.html)
+1. [Command reference](https://docs.okd.io/latest/minishift/command-ref/minishift.html)
+    1. [minishift start](https://docs.okd.io/latest/minishift/command-ref/minishift_start.html)
+1. Installation
+    1. [Install (Openshift) minishift in Ubuntu 18.04](https://medium.com/@kasun.dsilva/install-openshift-minishift-in-ubuntu-18-04-fe0760d5a54d)
