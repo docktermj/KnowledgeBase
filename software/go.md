@@ -88,6 +88,7 @@ Install the following tools:
 
 1. [Using Go Modules](https://blog.golang.org/using-go-modules)
 1. [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
+1. [Modules](https://github.com/golang/go/wiki/Modules)
 
 ## Go plugins
 
