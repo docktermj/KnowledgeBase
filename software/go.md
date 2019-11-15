@@ -84,6 +84,11 @@ Install the following tools:
 1. [Go Plugin System over RPC](https://github.com/hashicorp/go-plugin)
     1. [GoDoc](https://godoc.org/github.com/hashicorp/go-plugin)
 
+## Go modules
+
+1. [Using Go Modules](https://blog.golang.org/using-go-modules)
+1. [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
+
 ## Go plugins
 
 1. [Go Execution Modes by Ian Lance Taylor](http://bit.ly/1l7VFsL) - Discusses upcoming go "standard" plugin package.
