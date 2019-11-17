@@ -112,3 +112,30 @@
     ```
 
 1. [Enable Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v#enable-hyper-v-using-powershell)
+
+### Installation test
+
+1. Docker version on Ubuntu.
+   Example:
+
+    ```console
+    $sudo docker version
+    Client:
+     Version:           18.09.7
+     API version:       1.39
+     Go version:        go1.10.1
+     Git commit:        2d0083d
+     Built:             Fri Aug 16 14:20:06 2019
+     OS/Arch:           linux/amd64
+     Experimental:      false
+
+    Server:
+     Engine:
+      Version:          18.09.7
+      API version:      1.39 (minimum version 1.12)
+      Go version:       go1.10.1
+      Git commit:       2d0083d
+      Built:            Wed Aug 14 19:41:23 2019
+      OS/Arch:          linux/amd64
+      Experimental:     false
+    ```
