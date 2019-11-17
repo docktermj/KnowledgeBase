@@ -46,6 +46,16 @@
     EOT
     ```
 
+### Installation test
+
+1. Version.
+   Example:
+
+    ```console
+    $ go version
+    go version go1.13.4 linux/amd64
+    ```
+
 ## Tools
 
 Install the following tools:
