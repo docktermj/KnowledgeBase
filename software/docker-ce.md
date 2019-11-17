@@ -4,6 +4,16 @@
 
 ## Installation
 
+### Installation on Ubuntu 18.04
+
+1. [Official instructions](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+
+1. Example:
+
+    ```console
+    sudo apt install docker.io
+    ```
+
 ### Installation on Ubuntu 14.04 (LTS)
 
 1. Example:
