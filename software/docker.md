@@ -7,6 +7,11 @@
 1. [docker-ce](docker-ce.md)
 1. [docker-ee](docker-ee.md)
 
+## Installation
+
+1. [docker-ce](docker-ce.md#installation)
+1. [docker-ee](docker-ee.md#installation)
+
 ## Commands
 
 ### docker command line
