@@ -6,43 +6,40 @@
 
 ### Installation for Ubuntu
 
-#### Download for Ubuntu
-
 1. [Getting Started](https://golang.org/doc/install)
-    1. Download `go1.12.6.linux-amd64.tar.gz`
-
-#### Install for Ubuntu
-
-1. xxx
+1. :pencil2: Example:
 
     ```console
-    sudo tar -C /usr/local -xzf ~/Downloads/go1.12.6.linux-amd64.tar.gz
+    export GO_VERSION=1.13.4
+
+    wget https://dl.google.com/go/go${GO_VERSION}.linux-amd64.tar.gz
+    sudo tar -C /usr/local -xzf ./go${GO_VERSION}.linux-amd64.tar.gz
     ```
 
-#### Configure for Ubuntu
+## Configuration
 
-1. xxx
+1. Environment variables.
+   Example:
 
     ```console
-    https://golang.org/doc/install?download=go1.12.6.linux-amd64.tar.gz
+    export GOPATH="${HOME}/gocode"
+
+    mkdir -p ${GOPATH}
+    mkdir ${GOPATH}/bin
+    mkdir ${GOPATH}/pkg
+    mkdir ${GOPATH}/src
+
+    export PATH="${PATH}:/usr/local/go/bin:${GOPATH}/bin"
     ```
 
-1. Persist environment variables
+1. Persist environment variables.
+   Example:
 
     ```console
-    mkdir $HOME/go
-    export GOPATH=$HOME/go
-
-    mkdir -p $GOPATH/bin
-    mkdir -p $GOPATH/pkg
-    mkdir -p $GOPATH/src
-
-    export PATH=$PATH:$GOPATH/bin
-
     cat <<EOT >> ~/.bashrc
 
     # Set environment variables for go language
-    export GOPATH="${HOME}/go"
+    export GOPATH="${HOME}/gocode"
     export GOROOT=/usr/local/go
     export PATH=$PATH:${GOROOT}/bin:${GOPATH}/bin
     EOT
