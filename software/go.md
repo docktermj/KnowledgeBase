@@ -22,7 +22,7 @@
    Example:
 
     ```console
-    export GOPATH="${HOME}/gocode"
+    export GOPATH="${HOME}/go"
 
     mkdir -p ${GOPATH}
     mkdir ${GOPATH}/bin
@@ -39,7 +39,7 @@
     cat <<EOT >> ~/.bashrc
 
     # Set environment variables for go language
-    export GOPATH="${HOME}/gocode"
+    export GOPATH="${HOME}/go"
     export GOROOT=/usr/local/go
     export PATH=$PATH:${GOROOT}/bin:${GOPATH}/bin
     EOT
