@@ -119,7 +119,7 @@
    Example:
 
     ```console
-    $sudo docker version
+    $ sudo docker version
     Client:
      Version:           18.09.7
      API version:       1.39

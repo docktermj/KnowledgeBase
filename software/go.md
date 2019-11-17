@@ -23,6 +23,7 @@
 
     ```console
     export GOPATH="${HOME}/go"
+    export GOROOT=/usr/local/go
 
     mkdir -p ${GOPATH}
     mkdir ${GOPATH}/bin
