@@ -4,6 +4,18 @@
 
 ## Installation
 
+### Installation on Centos
+
+1. [Official instructions](https://docs.docker.com/install/linux/docker-ce/centos/)
+1. [Digital Ocean instructions](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-centos-7)
+   Synopsis:
+
+    ```centos
+    sudo yum check-update
+    curl -fsSL https://get.docker.com/ | sh
+    sudo systemctl start docker
+    ```
+
 ### Installation on Ubuntu 18.04
 
 1. [Official instructions](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
