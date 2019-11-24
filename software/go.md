@@ -136,3 +136,4 @@ Install the following tools:
 1. [tour.golang.org](https://tour.golang.org)
 1. [Go's declaration syntax](https://blog.golang.org/gos-declaration-syntax)
     1. [Go environment variables](https://golang.org/cmd/go/#hdr-Environment_variables)
+1. [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
