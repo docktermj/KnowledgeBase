@@ -1,13 +1,20 @@
 # PyDev
 
-[Software](README.md#P) > PyDev
+[Software](README.md#p) > PyDev
 
-Eclipse Python development tools.
+## Documentation
+
+1. [Homepage](https://www.pydev.org/)
+1. [Eclipse marketplace](https://marketplace.eclipse.org/content/pydev-python-ide-eclipse)
 
 ## Installation
 
+Use [Eclipse Marketplace](eclipse-marketplace.md)
+
 1. Eclipse > Help > Eclipse Marketplace...
     1. Search for "PyDev"
+
+## Configuration
 
 ## References
 

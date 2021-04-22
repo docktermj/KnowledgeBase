@@ -4,6 +4,7 @@
 
 ## Versions
 
+1. [Eclipse 4.19](eclipse-4.19.md) - 2021-03
 1. [Eclipse 4.8](eclipse-4.8.md) - Photon
 1. Eclipse 4.7 - Oxygen
 1. [Eclipse 4.6](eclipse-4.6.md) - Neon
@@ -15,11 +16,11 @@
 Recommended:
 
 1. [AnyEdit](anyedit.md)
-1. Bash Editor 2.0.1
-1. Eclipse Docker Tooling  4.0.0.201806122135
-1. Eclipse Marketplace Client 1.7.6
+1. [Bash Editor](bash-editor.md)
+1. [Eclipse Docker Tooling](eclipse-docker-tooling.md)
 1. [GoClipse](goclipse.md) - Supports the Go programming language
 1. [PyDev](pydev.md) - Python IDE for Eclipse 7.2.0
+1. [YAML Editor](yaml-editor.md)
 
 Optional:
 

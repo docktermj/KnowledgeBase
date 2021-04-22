@@ -1,15 +1,18 @@
 # goclipse
 
-[Software](README.md#G) > goclipse
+[Software](README.md#g) > goclipse
 
-[GoClipse](https://marketplace.eclipse.org/content/goclipse) in Eclipse Marketplace.
+## Documentation
+
+1. [GitHub](http://goclipse.github.io/)
+1. [Eclipse marketplace](https://marketplace.eclipse.org/content/goclipse)
 
 ## Installation
 
-1. Install [Eclipse 4.8](eclipse-4.8) or later
+Use [Eclipse Marketplace](eclipse-marketplace.md)
+
 1. Eclipse > Help > Eclipse Marketplace...
-1. Find: "Go"
-1. Choose: "GoClipse"
+    1. Search for "GoClipse"
 
 ## Configuration
 

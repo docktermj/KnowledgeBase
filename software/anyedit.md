@@ -1,13 +1,18 @@
 # anyedit
 
-[Software](README.md#A) > anyedit
+[Software](README.md#a) > anyedit
 
-[AnyEdit tools plugin for Eclipse](http://andrei.gmxhome.de/anyedit/),
-an Eclipse plugin.
+## Documentation
+
+1. [AnyEdit tools plugin for Eclipse](http://andrei.gmxhome.de/anyedit/), an Eclipse plugin.
+1. [Eclipse marketplace](https://marketplace.eclipse.org/content/anyedit-tools)
 
 ## Installation
 
 Use [Eclipse Marketplace](eclipse-marketplace.md)
+
+1. Eclipse > Help > Eclipse Marketplace...
+    1. Search for "anyedit"
 
 ## Configuration
 
