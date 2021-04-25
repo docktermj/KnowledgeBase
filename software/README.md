@@ -90,10 +90,11 @@
 
 ### E
 
-1. [Eclipse](eclipse.md)
-1. [Eclipse Docker Tooling](eclipse-docker-tooling.md)
 1. EggHead.io - Software education courses
 1. EyeTV
+1. [Eclipse Docker Tooling](eclipse-docker-tooling.md)
+1. [Eclipse Web Developer Tools](eclipse-web-developer-tools.md)
+1. [Eclipse](eclipse.md)
 
 ### F
 
