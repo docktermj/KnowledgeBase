@@ -35,13 +35,14 @@
 1. alpine
 1. Amazon prime instant video
 1. Amazon Web Services
-1. [AnyEdit](anyedit.md) - Eclipse plugin for multi-purpose editor
 1. Angular.js
+1. [AnyEdit](anyedit.md) - Eclipse plugin for multi-purpose editor
 1. Apache
 1. Apigility - PHP API code generator
 1. apt-get
 1. Awk
 1. aws - Amazon Web Services Command Line Interface (CLI)
+1. [AWS Toolkit for Eclipse](aws-tookit-for-eclipse.md)
 
 ### B
 
