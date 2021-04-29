@@ -16,6 +16,7 @@
 Recommended:
 
 1. [AnyEdit](anyedit.md)
+1. [AWS Toolkit for Eclipse](aws-tookit-for-eclipse.md)
 1. [Bash Editor](bash-editor.md)
 1. [Eclipse Docker Tooling](eclipse-docker-tooling.md)
 1. [Eclipse Web Developer Tools](eclipse-web-developer-tools.md)
