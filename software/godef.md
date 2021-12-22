@@ -7,11 +7,9 @@
 
 ## Installation
 
-1. Install
+1. Install into ${GOPATH}/bin
 
     ```console
-    go get   github.com/rogpeppe/godef
-    go build github.com/rogpeppe/godef
-    sudo mv godef $(go env GOROOT)/bin
+    go install github.com/rogpeppe/godef@latest
     godef --help
     ```
