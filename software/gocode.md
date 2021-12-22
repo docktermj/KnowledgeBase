@@ -4,12 +4,10 @@
 
 ## Installation
 
-1. Install
+1. Install into ${GOPATH}/bin
 
     ```console
-    go get   github.com/nsf/gocode
-    go build github.com/nsf/gocode
-    sudo mv gocode $(go env GOROOT)/bin
+    go install github.com/nsf/gocode@latest
     gocode --help
     ```
 
