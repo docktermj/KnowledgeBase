@@ -2,9 +2,15 @@
 
 [Software](README.md#g) > goclipse
 
+## Warning
+
+No longer actively maintained.
+See [Blog post](https://pureconcepture.blogspot.com/2017/07/goodbye-to-eclipse-end-of-era-for.html).
+
 ## Documentation
 
-1. [GitHub](http://goclipse.github.io/)
+1. [Github](https://github.com/GoClipse/goclipse)
+1. [GitHub pages](http://goclipse.github.io/)
 1. [Eclipse marketplace](https://marketplace.eclipse.org/content/goclipse)
 
 ## Installation
