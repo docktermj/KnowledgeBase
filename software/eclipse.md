@@ -2,6 +2,10 @@
 
 [Software](README.md#E) > eclipse
 
+## Installer
+
+1. [Eclipse Installer](https://www.eclipse.org/downloads/packages/installer)
+
 ## Versions
 
 1. [Eclipse 4.19](eclipse-4.19.md) - 2021-03
