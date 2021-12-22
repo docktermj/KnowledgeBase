@@ -20,13 +20,16 @@
 Recommended:
 
 1. [AnyEdit](anyedit.md)
-1. [AWS Toolkit for Eclipse](aws-tookit-for-eclipse.md)
+1. [PyDev](pydev.md) - Python IDE for Eclipse 7.2.0
+1. [GoClipse](goclipse.md) - Supports the Go programming language
+1. [YAML Editor](yaml-editor.md)
 1. [Bash Editor](bash-editor.md)
+
+Maybe:
+
+1. [AWS Toolkit for Eclipse](aws-tookit-for-eclipse.md)
 1. [Eclipse Docker Tooling](eclipse-docker-tooling.md)
 1. [Eclipse Web Developer Tools](eclipse-web-developer-tools.md)
-1. [GoClipse](goclipse.md) - Supports the Go programming language
-1. [PyDev](pydev.md) - Python IDE for Eclipse 7.2.0
-1. [YAML Editor](yaml-editor.md)
 
 Optional:
 
