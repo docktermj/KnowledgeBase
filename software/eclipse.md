@@ -4,7 +4,7 @@
 
 ## Installer
 
-1. [Eclipse Installer](https://www.eclipse.org/downloads/packages/installer)
+1. [Eclipse Installer](https://www.eclipse.org/downloads/packages/installer) - Java Developer
 
 ## Versions
 
