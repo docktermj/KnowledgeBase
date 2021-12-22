@@ -6,12 +6,10 @@
 
 ## Installation
 
-1. Install
+1. Install into ${GOPATH}/bin
 
     ```console
-    go get   golang.org/x/tools/cmd/guru
-    go build golang.org/x/tools/cmd/guru
-    sudo mv guru $(go env GOROOT)/bin
+    go install golang.org/x/tools/cmd/guru@latest    
     guru --help
     ```
 
