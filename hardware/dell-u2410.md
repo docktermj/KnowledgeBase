@@ -7,6 +7,12 @@
 1. Resolution: 1920 x 1200, plus full screen support for lower resolutions.
 1. Horizontal: 30kHz to 81 kHz (automatic)
 1. Vertical: 56 Hz to 76 hz
+1. Video ports:
+    1. 1 - HDMI
+    1. 2 - DVI
+    1. 1 - Display port
+    1. 1 - VGA
+    1. 1 - Component Video
 
 ## References
 
