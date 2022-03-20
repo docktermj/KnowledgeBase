@@ -1,4 +1,4 @@
-# Dell monitor U2410f
+# Dell monitor U2410f - Revision: A00
 
 ## Specifications
 
@@ -13,6 +13,7 @@
     1. 1 - Display port
     1. 1 - VGA
     1. 1 - Component Video
+1. Date of manufacture: Novenmber 2009
 
 ## References
 
