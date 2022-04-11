@@ -24,6 +24,7 @@ Recommended:
 1. [GoClipse](goclipse.md) - Supports the Go programming language
 1. [YAML Editor](yaml-editor.md)
 1. [Bash Editor](bash-editor.md)
+2. [Eclipse Docker Tooling](eclipse-docker-tooling.md)
 
 Maybe:
 
