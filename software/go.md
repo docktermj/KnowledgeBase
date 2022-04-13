@@ -72,6 +72,7 @@ Install the following tools:
 1. [GoCode](gocode.md#installation)
 1. [GoDef](godef.md#installation)
 1. [guru](guru.md#installation)
+1. [Go Tools](go-tools.md#installation)
 
 ## Eclipse
 
