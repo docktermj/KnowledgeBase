@@ -18,7 +18,7 @@
    Example:
 
     ```console
-    curl \
+    curl -X GET \
         --output /tmp/go${GO_VERSION}.linux-amd64.tar.gz \
         https://go.dev/dl/go${GO_VERSION}.linux-amd64.tar.gz
 
