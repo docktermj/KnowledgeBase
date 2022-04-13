@@ -34,22 +34,16 @@
         ~/.bashrc
     ```
 
-1. Environment variables.
+1. Make directory structure for Go.
+   *Note:* Open a new terminal to refresh environment variables.
    Example:
 
     ```console
-    export GOPATH="${HOME}/go"
-    export GOROOT=/usr/local/go
-
     mkdir -p ${GOPATH}
     mkdir ${GOPATH}/bin
     mkdir ${GOPATH}/pkg
     mkdir ${GOPATH}/src
-
-    export PATH="${PATH}:/usr/local/go/bin:${GOPATH}/bin"
     ```
-
-
 
 ### Installation test
 
