@@ -7,14 +7,23 @@
 ### Installation for Ubuntu
 
 1. [Getting Started](https://golang.org/doc/install)
-1. :pencil2: Example:
+1. :pencil2: Identify Go version.
+   Example:
 
     ```console
     export GO_VERSION=1.18.1
+    ```
 
-    wget https://go.dev/dl/go${GO_VERSION}.linux-amd64.tar.gz
+1. Install go.
+   Example:
+
+    ```console
+    curl \
+        --output /tmp/go${GO_VERSION}.linux-amd64.tar.gz \
+        https://go.dev/dl/go${GO_VERSION}.linux-amd64.tar.gz
+
     sudo rm -rf /usr/local/go
-    sudo tar -C /usr/local -xzf ./go${GO_VERSION}.linux-amd64.tar.gz
+    sudo tar -C /usr/local -xzf /tmp/go${GO_VERSION}.linux-amd64.tar.gz
     ```
 
 ## Configuration
