@@ -10,13 +10,29 @@
 1. :pencil2: Example:
 
     ```console
-    export GO_VERSION=1.13.4
+    export GO_VERSION=1.18.1
 
-    wget https://dl.google.com/go/go${GO_VERSION}.linux-amd64.tar.gz
+    wget https://go.dev/dl/go${GO_VERSION}.linux-amd64.tar.gz
+    sudo rm -rf /usr/local/go
     sudo tar -C /usr/local -xzf ./go${GO_VERSION}.linux-amd64.tar.gz
     ```
 
 ## Configuration
+
+1. Persist environment variables.
+   Example:
+
+    ```console
+    sudo sed \
+        -i.$(date +%s) \
+        -e "\$a \
+            # Set environment variables for go language.\n \
+            \nexport GOPATH=\${HOME}/go \
+            \nexport GOROOT=/usr/local/go \
+            \nexport PATH=\${PATH}:\${GOROOT}/bin:\${GOPATH}/bin \
+            \n" \
+        ~/.bashrc
+    ```
 
 1. Environment variables.
    Example:
@@ -33,18 +49,7 @@
     export PATH="${PATH}:/usr/local/go/bin:${GOPATH}/bin"
     ```
 
-1. Persist environment variables.
-   Example:
 
-    ```console
-    cat <<EOT >> ~/.bashrc
-
-    # Set environment variables for go language
-    export GOPATH="${HOME}/go"
-    export GOROOT=/usr/local/go
-    export PATH=$PATH:${GOROOT}/bin:${GOPATH}/bin
-    EOT
-    ```
 
 ### Installation test
 
