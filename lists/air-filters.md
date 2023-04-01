@@ -2,7 +2,7 @@
 
 ## 11.5 x 11.5 x 1
 
-[ ] Guest bedroom
+[ ] 1. Guest bedroom
 
 ## 12 x 24 x 1
 
