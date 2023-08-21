@@ -4,6 +4,7 @@
 
 ## Versions
 
+1. [VMware Workstation 16](vmware-workstation-16.md)
 1. [VMware Workstation 14](vmware-workstation-14.md)
 1. [VMware Workstation 12](vmware-workstation-12.md)
 1. [VMware Workstation 10](vmware-workstation-10.md)
