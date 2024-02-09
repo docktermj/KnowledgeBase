@@ -1,4 +1,4 @@
-Netgear ProSafe Plus Switch  JGS524E
+# Netgear ProSafe Plus Switch  JGS524E
 
 ## References
 
