@@ -1,4 +1,4 @@
-# Arris Surfboard cable modem SB82000
+# Arris Surfboard cable modem SB8200
 
 - Make: Arris
 - P/N: 1000205
