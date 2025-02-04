@@ -4,10 +4,10 @@
 
 1. [ ] Guest bedroom
 
-## 12 x 24 x 1
+## 11.5 x 23.5 x 1
 
 1. [ ] Main bedroom
 
-## 20 x 24 x 1
+## 20 x 23 x 1
 
 1. [ ] House
