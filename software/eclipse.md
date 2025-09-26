@@ -2,18 +2,30 @@
 
 [Software](README.md#E) > eclipse
 
-## Installer
+## Installation
 
-1. [Eclipse Installer](https://www.eclipse.org/downloads/packages/installer) - Java Developer
+### Installation for Ubuntu
 
-## Versions
+1. Visit [Eclipse Installer](https://www.eclipse.org/downloads/packages/installer)
+1. Download `eclipse-inst-jre-linux64.tar.gz`
+1. Un-TarGz file.
 
-1. [Eclipse 4.19](eclipse-4.19.md) - 2021-03
-1. [Eclipse 4.8](eclipse-4.8.md) - Photon
-1. Eclipse 4.7 - Oxygen
-1. [Eclipse 4.6](eclipse-4.6.md) - Neon
-1. [Eclipse 3.8](eclipse-3.8.md) - Juno
-1. [Wikipedia Eclipse releases](https://en.wikipedia.org/wiki/Eclipse_%28software%29#Releases)
+    ```console
+    sudo rm -rf /tmp/eclipse
+    sudo mkdir  /tmp/eclipse
+    sudo tar -C /tmp/eclipse -xzf ~/Downloads/eclipse-inst-jre-linux64.tar.gz
+    ```
+
+1. Run installer.
+
+    ```console
+    /tmp/eclipse/eclipse-installer/eclipse-inst
+    ```
+
+    1. Choose "Eclipse IDE for Java Developers"
+
+1. Desktop icons
+    1. `~/Desktop/*.desktop`
 
 ## Eclipse MarketPlace
 
@@ -24,7 +36,7 @@ Recommended:
 1. [GoClipse](goclipse.md) - Supports the Go programming language
 1. [YAML Editor](yaml-editor.md)
 1. [Bash Editor](bash-editor.md)
-2. [Eclipse Docker Tooling](eclipse-docker-tooling.md)
+1. [Eclipse Docker Tooling](eclipse-docker-tooling.md)
 
 Maybe:
 
@@ -62,3 +74,14 @@ Optional:
 1. Spaces, not tabs
     1. Eclipse > Window > Preferences > General > Editors > Text Editors
         1. [x] Insert spaces for tabs
+
+## Archive
+
+### Versions
+
+1. [Eclipse 4.19](eclipse-4.19.md) - 2021-03
+1. [Eclipse 4.8](eclipse-4.8.md) - Photon
+1. Eclipse 4.7 - Oxygen
+1. [Eclipse 4.6](eclipse-4.6.md) - Neon
+1. [Eclipse 3.8](eclipse-3.8.md) - Juno
+1. [Wikipedia Eclipse releases](https://en.wikipedia.org/wiki/Eclipse_%28software%29#Releases)

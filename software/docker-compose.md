@@ -4,6 +4,17 @@
 
 1. [Install Docker Compose](https://docs.docker.com/compose/install/)
 
+### Installation on Ubuntu
+
+1. [Install the Docker Compose plugin](https://docs.docker.com/compose/install/linux/)
+
+1. xxx
+
+    ```console
+    sudo apt-get update
+    sudo apt-get install docker-compose-plugin
+    ```
+
 ## Configuration
 
 ## Test

@@ -16,57 +16,33 @@
     sudo systemctl start docker
     ```
 
-### Installation on Ubuntu 18.04
+### Installation on Ubuntu 24.04
 
-1. [Official instructions](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+1. [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 
-1. Example:
+1. Download Docker's official GPG key
 
     ```console
-    sudo apt install docker.io
+    sudo install -m 0755 -d /etc/apt/keyrings
+    sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+    sudo chmod a+r /etc/apt/keyrings/docker.asc
     ```
 
-### Installation on Ubuntu 14.04 (LTS)
-
-1. Example:
-
     ```console
-    #!/bin/bash
-
-    lsb_release -a
-    # No LSB modules are available.
-    # Distributor ID: Ubuntu
-    # Description:    Ubuntu 14.04.1 LTS
-    # Release:    14.04
-    # Codename:   trusty
-
-    uname -a
-    # Linux ubuntu 3.13.0-39-generic #66-Ubuntu SMP Tue Oct 28 13:30:27 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
-
-    # Install docker
+    echo \
+        "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+        $(. /etc/os-release && echo "${UBUNTU_CODENAME:-$VERSION_CODENAME}") stable" | \
+        sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
     sudo apt-get update
-    sudo apt-get install docker.io
-    source /etc/bash_completion.d/docker.io
-    docker --version
-    # Docker version 1.0.1, build 990021a
-
-    # Get latest version
-    sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 36A1D7869245C8950F966E92D8576A8BA88D21E9
-    sudo sh -c "echo deb https://get.docker.com/ubuntu docker main > /etc/apt/sources.list.d/docker.list"
-    sudo apt-get update
-    sudo apt-get install lxc-docker
-    docker --version
-    # Docker version 1.3.1, build 4e9bbfa
-
-    # test
-    sudo docker run -i -t ubuntu /bin/bash
     ```
 
-1. To run docker without being sudo:
+1. Install docker
 
     ```console
-    sudo chmod 777 /var/run/docker.sock
+     sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
     ```
+
+1.
 
 ### Installation on macOS
 

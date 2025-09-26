@@ -5,10 +5,15 @@
 ## Installation
 
 1. [Linux Installation Instructions](https://www.scootersoftware.com/download.php?zz=kb_linux_install)
+1. [Linux Installation Instructions](https://www.scootersoftware.com/kb/linux_install)
 
 ### Installation on Ubuntu
 
 1. Search for "bcompare" then install.
+
+    ```console
+    sudo apt install ~/Downloads/bcompare-5.1.5.31310_amd64.deb
+    ```
 
 ## Configuration
 

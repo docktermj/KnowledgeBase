@@ -9,7 +9,7 @@
 1. Example:
 
     ```console
-    sudo snap install slack --classic
+    sudo snap install slack
     ```
 
 ### Installation on macOS
@@ -22,3 +22,7 @@
 ## Communities
 
 senzing.slack.com
+
+## References
+
+- [Download Slack for Linux (beta)](https://slack.com/help/articles/212924728-Download-Slack-for-Linux--beta-)

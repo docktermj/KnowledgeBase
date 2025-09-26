@@ -1,0 +1,26 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "Buildship",
+    "Clipse",
+    "dpkg",
+    "Enide",
+    "FPTP",
+    "GOPATH",
+    "GOROOT",
+    "keyrings",
+    "keyserver",
+    "Nodeclipse",
+    "Subclassing",
+    "SYSTEMROOT",
+    "thelio"
+  ],
+  "ignorePaths": [
+    ".dockerignore",
+    ".git/*",
+    ".gitignore",
+    ".history/*",
+    ".vscode/cspell.json"
+  ]
+}
